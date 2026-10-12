@@ -1,0 +1,82 @@
+{
+  "url": "https://zeta.dream-team.works",
+  "capturedVia": "browser-network+recon",
+  "total": 9,
+  "ok": 9,
+  "error": 0,
+  "fontsCss": null,
+  "assets": [
+    {
+      "url": "https://zeta.dream-team.works/assets/avatar-duo.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 52595,
+      "localPath": "images/zeta.dream-team.works/avatar-duo-f55965a0af.jpg"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/avatar-portrait.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 24427,
+      "localPath": "images/zeta.dream-team.works/avatar-portrait-252e8faec4.jpg"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/fonts.css",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 4380,
+      "localPath": "css/zeta.dream-team.works/fonts-fca72641cc.css"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/anton-400-normal-a6f395.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 18612,
+      "localPath": "fonts/zeta.dream-team.works/anton-400-normal-a6f395-656f8bfc9f.woff2"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/inter-700-normal-567244.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 48256,
+      "localPath": "fonts/zeta.dream-team.works/inter-700-normal-567244-efabe9ef39.woff2"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/inter-600-normal-567244.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 48256,
+      "localPath": "fonts/zeta.dream-team.works/inter-600-normal-567244-661af2d073.woff2"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/inter-400-normal-567244.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 48256,
+      "localPath": "fonts/zeta.dream-team.works/inter-400-normal-567244-5888071ec0.woff2"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/fonts/inter-800-normal-567244.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 48256,
+      "localPath": "fonts/zeta.dream-team.works/inter-800-normal-567244-e0a3ea6e2e.woff2"
+    },
+    {
+      "url": "https://zeta.dream-team.works/assets/favicon.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 308,
+      "localPath": "images/zeta.dream-team.works/favicon-f4f76fdd49.svg"
+    }
+  ]
+}

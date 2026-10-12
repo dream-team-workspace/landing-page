@@ -1,0 +1,97 @@
+{
+  "url": "https://memechat.dream-team.works",
+  "capturedVia": "browser-network+recon",
+  "total": 11,
+  "ok": 10,
+  "error": 1,
+  "fontsCss": null,
+  "assets": [
+    {
+      "url": "https://memechat.dream-team.works/assets/images/app-home.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 23966,
+      "localPath": "images/memechat.dream-team.works/app-home-606c8954ab.webp"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/images/memechat-mascot.png?v=2",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 52823,
+      "localPath": "images/memechat.dream-team.works/memechat-mascot-184572e39f.png"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/fonts.css",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 7904,
+      "localPath": "css/memechat.dream-team.works/fonts-f911e98c7f.css"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/images/app-chat.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 17708,
+      "localPath": "images/memechat.dream-team.works/app-chat-1e15e1b7e3.webp"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/plus-jakarta-sans-700-normal-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 27348,
+      "localPath": "fonts/memechat.dream-team.works/plus-jakarta-sans-700-normal-latin-2476378158.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/inter-normal-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 48256,
+      "localPath": "fonts/memechat.dream-team.works/inter-normal-latin-4e385673db.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/ibm-plex-mono-400-normal-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 14708,
+      "localPath": "fonts/memechat.dream-team.works/ibm-plex-mono-400-normal-latin-034a636f02.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/ibm-plex-mono-700-normal-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 14908,
+      "localPath": "fonts/memechat.dream-team.works/ibm-plex-mono-700-normal-latin-cc7dd3b31d.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/plus-jakarta-sans-800-normal-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 27348,
+      "localPath": "fonts/memechat.dream-team.works/plus-jakarta-sans-800-normal-latin-f003ce77f7.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/assets/fonts/instrument-serif-400-italic-latin.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 22128,
+      "localPath": "fonts/memechat.dream-team.works/instrument-serif-400-italic-latin-3977ea2e8b.woff2"
+    },
+    {
+      "url": "https://memechat.dream-team.works/favicon.ico",
+      "kind": "image",
+      "via": "network",
+      "status": "error",
+      "error": "HTTP 404"
+    }
+  ]
+}

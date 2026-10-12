@@ -1,0 +1,26 @@
+{
+  "original": {
+    "width": 1440,
+    "height": 14481
+  },
+  "clone": {
+    "width": 1440,
+    "height": 12612
+  },
+  "comparedCanvas": {
+    "width": 1440,
+    "height": 14481
+  },
+  "threshold": 0.08,
+  "changedPixels": 9792249,
+  "totalPixels": 20852640,
+  "diffPixelRatio": 0.4695927709872707,
+  "meanAbsDiff": 0.15717265079933812,
+  "rmse": 0.2563429411300065,
+  "visualScore": 1,
+  "files": {
+    "original": "/home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e/RECON/screenshots/original-1440.png",
+    "clone": "/home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e/RECON/screenshots/clone-1440.png",
+    "diff": "/home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e/RECON/screenshots/visual-diff-1440.png"
+  }
+}

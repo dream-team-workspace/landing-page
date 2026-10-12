@@ -1,0 +1,442 @@
+# Clone Audit
+
+- Project: /home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e
+- Scanned files: 23
+- Findings: 528
+
+## 保真度硬伤（字体 / 图片 / 颜色）
+- 未发现
+
+## 追踪脚本 / 统计像素
+- .od-skills/web-clone-30470fe417/SKILL.md:157 · Google Tag Manager · `googletagmanager`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `Ga(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `Ga(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `Ga(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `gA(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `gA(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `gA(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `gA(`
+- assets/vendor/babel.min.js:3 · Google Analytics / gtag · `gA(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `hj(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `hj(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `Hj(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `Hj(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `hJ(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `hJ(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `hJ(`
+- assets/vendor/babel.min.js:3 · Hotjar / Clarity · `HJ(`
+
+## 原站品牌残留
+- 未发现
+
+## 日文残留
+- 未发现
+
+## TODO / 占位内容
+- .od-skills/web-clone-30470fe417/SKILL.md:267 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-30470fe417/SKILL.md:282 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-30470fe417/references/deliverables.md:137 · TODO / placeholder content · `TODO`
+- .od-skills/web-clone-30470fe417/references/design-dna.md:41 · TODO / placeholder content · `TODO`
+- assets/vendor/babel.min.js:3 · TODO / placeholder content · `todo`
+- assets/vendor/react-dom.development.js:108 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:200 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:208 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:459 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:920 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:947 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:1023 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:1042 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:1680 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:2028 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:3961 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:3983 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:4052 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:4269 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:4448 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:4452 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:4489 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5147 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5162 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5458 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5501 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5589 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5613 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:5775 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6052 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6196 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6236 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6400 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6526 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6546 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6551 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6680 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:6888 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:6903 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:8049 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:8055 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:8909 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:8980 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9000 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9008 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9391 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9676 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9736 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9841 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9935 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9942 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9958 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:9999 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10153 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10195 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10280 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10315 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10316 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10351 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10364 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10376 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10387 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10398 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10409 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10412 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10432 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10434 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:10442 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10449 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10461 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10466 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10517 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10566 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:10938 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11020 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11093 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11147 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11164 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11302 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11311 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11319 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11351 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11418 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:11453 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:11460 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:11481 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11498 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:11670 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:11891 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12026 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12043 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12076 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12323 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12395 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12406 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12574 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12603 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:12616 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13053 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13181 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13598 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13620 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13623 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13659 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13733 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:13792 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13814 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13817 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13853 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:13940 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:14009 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:14061 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:14247 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:14883 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:14907 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15291 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15327 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15474 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15586 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15730 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:15826 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:15942 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16037 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16176 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:16351 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16373 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16581 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16701 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:16747 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:18582 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:18788 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19020 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19225 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19383 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19452 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19476 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19670 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19778 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:19823 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:20290 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:20314 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:20663 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:20687 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:20736 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21072 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21110 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21149 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21304 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21554 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21625 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21826 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21831 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:21835 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22058 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:22093 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:22220 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22228 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22351 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22356 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22382 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22395 · TODO / placeholder content · `FixMe`
+- assets/vendor/react-dom.development.js:22609 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:22742 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23061 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23338 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23365 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23391 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23410 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23421 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23560 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23800 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23829 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23968 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23982 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:23989 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24034 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24195 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24200 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24226 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24405 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24431 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24529 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24552 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24596 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24645 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24684 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24765 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24789 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24820 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24866 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:24882 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25094 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25099 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25156 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25308 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25490 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25502 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25574 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25612 · TODO / placeholder content · `TODO`
+- assets/vendor/react-dom.development.js:25653 · TODO / placeholder content · `TODO`
+- 还有 66 条未展开
+
+## 外部依赖 / 外链风险
+- .od-skills/web-clone-30470fe417/SKILL.md:64 · external URL · `https://raw.githubusercontent.com/`
+- .od-skills/web-clone-30470fe417/SKILL.md:173 · external URL · `http://127.0.0.1:`
+- .od-skills/web-clone-30470fe417/SKILL.md:178 · external URL · `http://127.0.0.1:`
+- .od-skills/web-clone-30470fe417/SKILL.md:185 · external URL · `http://127.0.0.1:`
+- .od-skills/web-clone-30470fe417/references/design-dna.md:7 · external URL · `https://github.com/zanwei/design-dna`
+- .od-skills/web-clone-30470fe417/references/effect-extraction.md:6 · external URL · `https://github.com/lixiaolin94/skills`
+- .od-skills/web-clone-30470fe417/references/marbles-case.md:3 · external URL · `https://chiuhans111.github.io/marbles/`
+- .od-skills/web-clone-30470fe417/references/static-mirror.md:38 · external URL · `https://use.typekit.net/`
+- .od-skills/web-clone-30470fe417/references/static-mirror.md:49 · external URL · `https://use.typekit.net/`
+- .od-skills/web-clone-30470fe417/references/static-mirror.md:51 · external URL · `https://use\.typekit\.net/`
+- assets/vendor/babel.min.js:2 · external URL · `https://github.com/babel/babel/blob/main/packages/babel-helpers/LICENSE`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/blob/main/packages/babel-helpers/LICENSE`
+- assets/vendor/babel.min.js:3 · external URL · `http://foo.com`
+- assets/vendor/babel.min.js:3 · external URL · `http://foo.com/`
+- assets/vendor/babel.min.js:3 · external URL · `http://babeljs.io/docs/plugins/external-helpers/`
+- assets/vendor/babel.min.js:3 · external URL · `http://babeljs.io/docs/plugins/transform-react-jsx/`
+- assets/vendor/babel.min.js:3 · external URL · `http://babeljs.io/docs/plugins/#modules`
+- assets/vendor/babel.min.js:3 · external URL · `http://babeljs.io/docs/plugins/preset-react/`
+- assets/vendor/babel.min.js:3 · external URL · `http://babeljs.io/docs/plugins/#presets`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-core/#options`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/options#filename`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/thlorenz/convert-source-map#upgrading`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/thlorenz/convert-source-map#upgrading`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-async-do-expressions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-decimal`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-decorators`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-decorators`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-do-expressions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-do-expressions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-export-default-from`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-export-default-from`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-flow`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-preset-flow`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-function-bind`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-function-bind`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-function-sent`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-function-sent`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-jsx`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-preset-react`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-pipeline-operator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-pipeline-operator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-record-and-tuple`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-throw-expressions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-proposal-throw-expressions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-typescript`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-preset-typescript`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-async-generators`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-async-generator-functions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-class-properties`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-class-properties`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-class-properties`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-class-properties`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-class-properties`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-private-methods`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/HEAD/packages/babel-plugin-syntax-class-static-block`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/HEAD/packages/babel-plugin-transform-class-static-block`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-dynamic-import`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-export-namespace-from`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-export-namespace-from`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-import-assertions`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-import-attributes`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-import-meta`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-logical-assignment-operators`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-logical-assignment-operators`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-module-string-names`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-numeric-separator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-numeric-separator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-nullish-coalescing-operator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-nullish-coalescing-opearator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-object-rest-spread`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-object-rest-spread`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-optional-catch-binding`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-optional-catch-binding`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-optional-chaining`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-optional-chaining`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-private-property-in-object`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-private-property-in-object`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/blob/main/packages/babel-plugin-syntax-unicode-sets-regex/README.md`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/blob/main/packages/babel-plugin-proposalunicode-sets-regex/README.md`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/configuration#print-effective-configs`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-plugin-proposal-pipeline-operator`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel/issues.`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/configuration#print-effective-configs`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel-polyfills/blob/main/docs/usage.md`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel-polyfills/issues/36`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-plugin-transform-typescript`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-plugin-transform-typescript`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel-polyfills/blob/main/docs/usage.md`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel-polyfills/issues/36`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-preset-env#usebuiltins\nMore`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/en/babel-preset-env#corejs`
+- assets/vendor/babel.min.js:3 · external URL · `https://github.com/babel/babel-polyfills/blob/main/docs/usage.md`
+- assets/vendor/babel.min.js:3 · external URL · `https://babeljs.io/docs/setup/`
+- assets/vendor/react-dom.development.js:70 · external URL · `https://github.com/facebook/react/issues/13610`
+- assets/vendor/react-dom.development.js:129 · external URL · `https://github.com/facebook/react/issues/11347`
+- assets/vendor/react-dom.development.js:193 · external URL · `https://github.com/facebook/react/pull/22064.`
+- assets/vendor/react-dom.development.js:625 · external URL · `https://url.spec.whatwg.org/#url-parsing`
+- assets/vendor/react-dom.development.js:627 · external URL · `https://infra.spec.whatwg.org/#ascii-tab-or-newline`
+- assets/vendor/react-dom.development.js:630 · external URL · `https://infra.spec.whatwg.org/#c0-control-or-space`
+- assets/vendor/react-dom.development.js:913 · external URL · `https://github.com/facebook/react/issues/19099`
+- assets/vendor/react-dom.development.js:1653 · external URL · `https://github.com/facebook/react/issues/11768`
+- assets/vendor/react-dom.development.js:1765 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:1771 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:1800 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:1806 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:1893 · external URL · `https://bugs.chromium.org/p/chromium/issues/detail?id=608416`
+- assets/vendor/react-dom.development.js:1980 · external URL · `https://github.com/facebook/react/issues/7253`
+- assets/vendor/react-dom.development.js:2180 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:2269 · external URL · `https://reactjs.org/link/controlled-components`
+- assets/vendor/react-dom.development.js:2344 · external URL · `https://developer.microsoft.com/microsoft-edge/platform/issues/101525/`
+- assets/vendor/react-dom.development.js:2473 · external URL · `https://github.com/mozilla/gecko-dev/blob/4e638efc71/layout/style/test/property_database.js`
+- assets/vendor/react-dom.development.js:2613 · external URL · `https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet`
+- assets/vendor/react-dom.development.js:2614 · external URL · `http://www.thespanner.co.uk/2007/11/26/ultimate-xss-css-injection/`
+- assets/vendor/react-dom.development.js:2647 · external URL · `http://modernizr.com/docs/#prefixed`
+- assets/vendor/react-dom.development.js:2683 · external URL · `http://www.andismith.com/blog/2012/02/modernizr-prefixed/`
+- assets/vendor/react-dom.development.js:2939 · external URL · `https://reactjs.org/link/dangerously-set-inner-html`
+- assets/vendor/react-dom.development.js:2963 · external URL · `https://w3c.github.io/webcomponents/spec/custom/#custom-elements-core-concepts`
+- assets/vendor/react-dom.development.js:3603 · external URL · `https://reactjs.org/link/invalid-aria-props`
+- assets/vendor/react-dom.development.js:3605 · external URL · `https://reactjs.org/link/invalid-aria-props`
+- assets/vendor/react-dom.development.js:3802 · external URL · `https://reactjs.org/link/attribute-behavior`
+- assets/vendor/react-dom.development.js:3804 · external URL · `https://reactjs.org/link/attribute-behavior`
+- assets/vendor/react-dom.development.js:3862 · external URL · `https://github.com/facebook/react/issues/12506`
+- assets/vendor/react-dom.development.js:3868 · external URL · `http://www.quirksmode.org/js/events_properties.html`
+- assets/vendor/react-dom.development.js:3953 · external URL · `https://github.com/facebook/react/issues/1698`
+- assets/vendor/react-dom.development.js:4048 · external URL · `https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#Safely_detecting_option_support`
+- assets/vendor/react-dom.development.js:4105 · external URL · `https://github.com/facebook/create-react-app/issues/3482`
+- assets/vendor/react-dom.development.js:4124 · external URL · `https://github.com/facebook/react/issues/13688`
+- assets/vendor/react-dom.development.js:4213 · external URL · `https://reactjs.org/link/crossorigin-error`
+- assets/vendor/react-dom.development.js:4224 · external URL · `https://github.com/facebook/react/issues/16734`
+- assets/vendor/react-dom.development.js:4225 · external URL · `https://github.com/facebook/react/issues/16585`
+- assets/vendor/react-dom.development.js:4799 · external URL · `https://github.com/facebook/react/issues/3877`
+- assets/vendor/react-dom.development.js:4805 · external URL · `https://reactjs.org/link/react-devtools`
+- assets/vendor/react-dom.development.js:5165 · external URL · `https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/clz32`
+- assets/vendor/react-dom.development.js:5761 · external URL · `https://v8.dev/blog/elements-kinds#avoid-creating-holes`
+- assets/vendor/react-dom.development.js:7042 · external URL · `https://developer.mozilla.org/en-US/docs/Web/API/AnimationEvent`
+- assets/vendor/react-dom.development.js:7084 · external URL · `https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent#Key_names`
+- assets/vendor/react-dom.development.js:7104 · external URL · `https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent#Key_names`
+- assets/vendor/react-dom.development.js:7306 · external URL · `https://developer.mozilla.org/en-US/docs/Web/API/TransitionEvent`
+- assets/vendor/react-dom.development.js:7543 · external URL · `https://code.google.com/p/chromium/issues/detail?id=355103`
+- assets/vendor/react-dom.development.js:7702 · external URL · `http://www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#input-type-attr-summary`
+- assets/vendor/react-dom.development.js:7812 · external URL · `https://github.com/facebook/react/issues/708.`
+- assets/vendor/react-dom.development.js:8126 · external URL · `https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is`
+- assets/vendor/react-dom.development.js:8256 · external URL · `https://bugzilla.mozilla.org/show_bug.cgi?id=208427`
+- assets/vendor/react-dom.development.js:8444 · external URL · `https://html.spec.whatwg.org/multipage/browsers.html#integration-with-idl`
+- assets/vendor/react-dom.development.js:8476 · external URL · `https://html.spec.whatwg.org/#do-not-apply,`
+- assets/vendor/react-dom.development.js:9181 · external URL · `https://github.com/facebook/react/issues/19651`
+- assets/vendor/react-dom.development.js:9544 · external URL · `https://electronjs.org/docs/api/webview-tag`
+- assets/vendor/react-dom.development.js:9562 · external URL · `https://github.com/facebook/react/issues/11807`
+- assets/vendor/react-dom.development.js:9612 · external URL · `https://github.com/facebook/react/pull/11157.`
+- assets/vendor/react-dom.development.js:9672 · external URL · `https://www.quirksmode.org/blog/archives/2010/09/click_event_del.html`
+- assets/vendor/react-dom.development.js:9710 · external URL · `https://github.com/facebook/react/issues/6731#issuecomment-254874553`
+- assets/vendor/react-dom.development.js:9792 · external URL · `https://github.com/facebook/react/pull/6896`
+- assets/vendor/react-dom.development.js:9793 · external URL · `https://bugzilla.mozilla.org/show_bug.cgi?id=1276240`
+- assets/vendor/react-dom.development.js:9800 · external URL · `https://github.com/facebook/react/issues/13222`
+- assets/vendor/react-dom.development.js:9801 · external URL · `https://github.com/facebook/react/issues/14239`
+- assets/vendor/react-dom.development.js:10292 · external URL · `https://github.com/facebook/react/pull/10676.`
+- assets/vendor/react-dom.development.js:10553 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#has-an-element-in-scope`
+- assets/vendor/react-dom.development.js:10562 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#special`
+- assets/vendor/react-dom.development.js:10563 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#has-an-element-in-scope`
+- assets/vendor/react-dom.development.js:10565 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#html-integration-point`
+- assets/vendor/react-dom.development.js:10568 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#has-an-element-in-button-scope`
+- assets/vendor/react-dom.development.js:10570 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#generate-implied-end-tags`
+- assets/vendor/react-dom.development.js:10600 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-inbody`
+- assets/vendor/react-dom.development.js:10648 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-inselect`
+- assets/vendor/react-dom.development.js:10659 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-intd`
+- assets/vendor/react-dom.development.js:10660 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-incaption`
+- assets/vendor/react-dom.development.js:10663 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-intr`
+- assets/vendor/react-dom.development.js:10667 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-intbody`
+- assets/vendor/react-dom.development.js:10673 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-incolgroup`
+- assets/vendor/react-dom.development.js:10677 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-intable`
+- assets/vendor/react-dom.development.js:10681 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-inhead`
+- assets/vendor/react-dom.development.js:10685 · external URL · `https://html.spec.whatwg.org/multipage/semantics.html#the-html-element`
+- assets/vendor/react-dom.development.js:10697 · external URL · `https://html.spec.whatwg.org/multipage/syntax.html#parsing-main-inbody`
+- assets/vendor/react-dom.development.js:11087 · external URL · `https://github.com/facebook/react/issues/11918`
+- assets/vendor/react-dom.development.js:12898 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12904 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12904 · external URL · `https://reactjs.org/link/derived-state\n`
+- assets/vendor/react-dom.development.js:12910 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12916 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12922 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12922 · external URL · `https://reactjs.org/link/derived-state\n`
+- assets/vendor/react-dom.development.js:12928 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:12979 · external URL · `https://reactjs.org/link/legacy-context`
+- assets/vendor/react-dom.development.js:13040 · external URL · `https://reactjs.org/link/warning-keys`
+- assets/vendor/react-dom.development.js:13066 · external URL · `https://reactjs.org/link/strict-mode-string-ref`
+- assets/vendor/react-dom.development.js:13082 · external URL · `https://reactjs.org/link/strict-mode-string-ref`
+- assets/vendor/react-dom.development.js:13123 · external URL · `https://reactjs.org/link/refs-must-have-owner`
+- assets/vendor/react-dom.development.js:13732 · external URL · `https://github.com/facebook/react/issues/12995`
+- assets/vendor/react-dom.development.js:15411 · external URL · `https://reactjs.org/link/rules-of-hooks\n\n`
+- assets/vendor/react-dom.development.js:15418 · external URL · `https://reactjs.org/link/invalid-hook-call`
+- assets/vendor/react-dom.development.js:16811 · external URL · `https://reactjs.org/link/rules-of-hooks`
+- assets/vendor/react-dom.development.js:18068 · external URL · `https://reactjs.org/link/legacy-context`
+- assets/vendor/react-dom.development.js:18076 · external URL · `https://reactjs.org/link/legacy-context`
+- assets/vendor/react-dom.development.js:18269 · external URL · `https://reactjs.org/link/unsafe-component-lifecycles`
+- assets/vendor/react-dom.development.js:18695 · external URL · `https://github.com/facebook/react/pull/13384`
+- assets/vendor/react-dom.development.js:18703 · external URL · `https://reactjs.org/link/error-boundaries`
+- assets/vendor/react-dom.development.js:18725 · external URL · `https://github.com/facebook/react/issues/13188`
+- assets/vendor/react-dom.development.js:19458 · external URL · `https://github.com/facebook/react/pull/19216.`
+- assets/vendor/react-dom.development.js:21597 · external URL · `https://github.com/facebook/react/pull/19216.`
+- assets/vendor/react-dom.development.js:22882 · external URL · `https://github.com/facebook/react/pull/21666`
+- 还有 45 条未展开
+
+## 结论
+- 需要处理上面的残留项后再声明可部署。

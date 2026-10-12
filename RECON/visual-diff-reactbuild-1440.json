@@ -1,0 +1,26 @@
+{
+  "original": {
+    "width": 1440,
+    "height": 12612
+  },
+  "clone": {
+    "width": 1440,
+    "height": 12612
+  },
+  "comparedCanvas": {
+    "width": 1440,
+    "height": 12612
+  },
+  "threshold": 0.08,
+  "changedPixels": 246323,
+  "totalPixels": 18161280,
+  "diffPixelRatio": 0.013563085861789477,
+  "meanAbsDiff": 0.0036132650687284683,
+  "rmse": 0.031107820246207424,
+  "visualScore": 4.5,
+  "files": {
+    "original": "/home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e/RECON/screenshots/clone-1440.png",
+    "clone": "/tmp/opencode/react-recon/screenshots/reactbuild-1440.png",
+    "diff": "/tmp/opencode/diff-1440.png"
+  }
+}

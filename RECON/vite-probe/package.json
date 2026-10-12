@@ -1,0 +1,2 @@
+{ "name": "vite-probe", "private": true, "type": "module", "scripts": { "build": "vite build" },
+  "devDependencies": { "vite": "^7.1.3" } }

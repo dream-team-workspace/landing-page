@@ -1,0 +1,32 @@
+# newcomer recon
+
+- URL: https://newcomer.framer.website/
+- Title: Newcomer — An AI agent that lives on your phone
+- Lang: en
+- Viewports: 1440, 768, 390
+- Framework signals: none
+- Canvas count: 0
+- Video count: 0
+- Image count: 17
+- Link count: 22
+- Console errors: 0
+- Page errors: 0
+- Recovered navigation timeouts: 0
+
+## Palette (computed — 复刻必须照抄这些值，不许目测)
+- body: bg rgb(255, 255, 255) · text rgb(0, 0, 0) · font sans-serif
+- nav: bg rgb(255, 255, 255) · text rgb(0, 0, 0) · font sans-serif
+- main: bg rgba(0, 0, 0, 0) · text rgb(0, 0, 0) · font sans-serif
+- footer: bg rgb(255, 255, 255) · text rgb(0, 0, 0) · font sans-serif
+
+## Fonts (真字体自托管，禁止系统字体近似)
+- Loaded families: Cormorant Garamond, Cormorant Garamond, Cormorant Garamond, Cormorant Garamond, Cormorant Garamond, Instrument Serif, Instrument Serif, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter, Inter
+- @font-face rules: 60; font files: 4
+
+## Assets
+- Image resources loaded: 14 (run asset-harvest to download ALL of them)
+
+## Screenshots
+- 1440: screenshots/newcomer-1440.png
+- 768: screenshots/newcomer-768.png
+- 390: screenshots/newcomer-390.png

@@ -1,0 +1,2400 @@
+{
+  "label": "original",
+  "url": "https://conicorn.framer.ai",
+  "capturedAt": "2026-10-12T15:26:04.107Z",
+  "initial": {
+    "url": "https://conicorn.framer.ai/",
+    "title": "Conicorn - AI Automation Agency SaaS Template",
+    "activeElement": "body",
+    "scrollY": 0,
+    "bodyTextChars": 9887,
+    "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+    "counts": {
+      "dialogs": 0,
+      "popovers": 0,
+      "canvases": 0,
+      "videos": 2,
+      "buttons": 1,
+      "forms": 1
+    },
+    "htmlHash": "454412827",
+    "htmlLength": 922092
+  },
+  "discovered": {
+    "interactive": [
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 539,
+          "y": 32,
+          "width": 56,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Menu",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 623,
+          "y": 48,
+          "width": 71,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.framer.com/marketplace/templates/",
+        "text": "Get this Template",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 718,
+          "y": 36,
+          "width": 163,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://framer.com/",
+        "text": "Get this Template Get this Template",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 503,
+          "y": 646,
+          "width": 211,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Work with Us Work with Us",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 722,
+          "y": 646,
+          "width": 200,
+          "height": 56
+        }
+      },
+      {
+        "selector": "section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.youtube.com/watch?v=8AHPXm9Y6mI",
+        "text": "[data-magnetichover=\"qydCBpSYevMfu\"] { transform: translate(0.000px, 0.000px) matrix(1, 0, 0, 1, 0, 0) !important }",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 450,
+          "y": 1619,
+          "width": 526,
+          "height": 161
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Schedule a Session Schedule a Session",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 120,
+          "y": 4305,
+          "width": 225,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 717,
+          "y": 6433,
+          "width": 110,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-project-management-automation-for-creative-teams",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1644,
+          "y": 6428,
+          "width": 88,
+          "height": 19
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-workflow-automation-for-finance-saas-company",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 2572,
+          "y": 6428,
+          "width": 88,
+          "height": 19
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 6387,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1185,
+          "y": 6387,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies",
+        "text": "Explore all Case Studies Explore all Case Studies",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 584,
+          "y": 6691,
+          "width": 258,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://framer.com/",
+        "text": "Try with Conicorn",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 623,
+          "y": 7208,
+          "width": 180,
+          "height": 180
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.youtube.com/watch?v=8AHPXm9Y6mI",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 112,
+          "y": 8100,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.youtube.com/watch?v=8AHPXm9Y6mI",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 961,
+          "y": 8495,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "MONTHLY ANNUALLY (SAVE 10%)",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 569,
+          "y": 9827,
+          "width": 287,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Get Starter Package Get Starter Package",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 265,
+          "y": 10466,
+          "width": 388,
+          "height": 53
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Get Growth Package Get Growth Package",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 773,
+          "y": 10466,
+          "width": 388,
+          "height": 53
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Book a Free Consultation Book a Free Consultation",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 580,
+          "y": 10823,
+          "width": 265,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 190,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 242,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 294,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 570,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 622,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 674,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 950,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1002,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1054,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1330,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1382,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1434,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1710,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1762,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1814,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2090,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2142,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2194,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2470,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2522,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 2574,
+          "y": 11864,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1241,
+          "y": 11967,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1297,
+          "y": 11967,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "1 What industries do you work with? We work with businesses across a wide range of industries including real estate, hea",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 12430,
+          "width": 1040,
+          "height": 216
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "2 How long does implementation take? Project timelines typically range from 2 to 6 weeks, depending on complexity. Small",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 12656,
+          "width": 1040,
+          "height": 97
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "3 Do we need technical knowledge to work with you? No technical background is required. We handle the entire process — f",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 12763,
+          "width": 1040,
+          "height": 97
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "4 Is AI automation secure? Yes. Security and data privacy are a top priority in every system we build. We use secure API",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 12870,
+          "width": 1040,
+          "height": 97
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "5 What kind of ROI can we expect? Most businesses see ROI through reduced manual work, faster response times, increased ",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 193,
+          "y": 12977,
+          "width": 1040,
+          "height": 97
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > label:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "type": "text",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 445,
+          "y": 13681,
+          "width": 536,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > label:nth-of-type(2) > div:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "type": "text",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 445,
+          "y": 13737,
+          "width": 536,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > label:nth-of-type(3) > div:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "type": "email",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 445,
+          "y": 13793,
+          "width": 536,
+          "height": 24
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > label:nth-of-type(4) > div:nth-of-type(1) > textarea:nth-of-type(1)",
+        "tag": "textarea",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 433,
+          "y": 13837,
+          "width": 560,
+          "height": 120
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "submit",
+        "role": "",
+        "href": "",
+        "text": "Send Your Request!",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 620,
+          "y": 13997,
+          "width": 185,
+          "height": 56
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://linkedin.com/",
+        "text": "LinkedIn LinkedIn",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 80,
+          "y": 14213,
+          "width": 124,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://instagram.com/",
+        "text": "Instagram Instagram",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 452,
+          "y": 14213,
+          "width": 136,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "Facebook Facebook",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 836,
+          "y": 14213,
+          "width": 134,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "Twitter X Twitter X",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1219,
+          "y": 14213,
+          "width": 126,
+          "height": 32
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies",
+        "text": "Case Studies",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 80,
+          "y": 14293,
+          "width": 90,
+          "height": 21
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Contact",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 420,
+          "y": 14293,
+          "width": 55,
+          "height": 21
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/404",
+        "text": "404",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 725,
+          "y": 14293,
+          "width": 29,
+          "height": 21
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/terms-of-service",
+        "text": "Terms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1003,
+          "y": 14293,
+          "width": 42,
+          "height": 21
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/privacy-policy",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1295,
+          "y": 14293,
+          "width": 50,
+          "height": 21
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://ninhstudio.com/",
+        "text": "N!nh",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1289,
+          "y": 14405,
+          "width": 56,
+          "height": 24
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.framer.com/",
+        "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1265,
+          "y": 842,
+          "width": 140,
+          "height": 38
+        }
+      }
+    ],
+    "canvases": []
+  },
+  "actions": [
+    {
+      "type": "scroll",
+      "target": "middle",
+      "ratio": 0.5,
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1245407282",
+        "htmlLength": 922092
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 6791,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-596386639",
+        "htmlLength": 924834
+      },
+      "changed": true,
+      "screenshot": "screenshots/01-scroll-middle-b04a45f075.png"
+    },
+    {
+      "type": "scroll",
+      "target": "bottom",
+      "ratio": 1,
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "355169073",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 13581,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-870806696",
+        "htmlLength": 923485
+      },
+      "changed": true,
+      "screenshot": "screenshots/02-scroll-bottom-7297e0cbea.png"
+    },
+    {
+      "type": "hover",
+      "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 539,
+          "y": 32,
+          "width": 56,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1361386898",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "24617197",
+        "htmlLength": 922254
+      },
+      "changed": true,
+      "screenshot": "screenshots/03-hover-div-nth-of-type-1-div-nth-of-type-1-div-nth-of-type-1-nav-nth-of-type-1-div-nth-of-t-1c4023ff7d.png"
+    },
+    {
+      "type": "hover",
+      "target": "Menu",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Menu",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 623,
+          "y": 48,
+          "width": 71,
+          "height": 24
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1755700018",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1755700018",
+        "htmlLength": 922090
+      },
+      "changed": false,
+      "screenshot": "screenshots/04-hover-Menu-eeb8504015.png"
+    },
+    {
+      "type": "hover",
+      "target": "Get this Template",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.framer.com/marketplace/templates/",
+        "text": "Get this Template",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 718,
+          "y": 36,
+          "width": 163,
+          "height": 48
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1811025028",
+        "htmlLength": 922087
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-955033907",
+        "htmlLength": 922200
+      },
+      "changed": true,
+      "screenshot": "screenshots/05-hover-Get-this-Template-96f5ea14b0.png"
+    },
+    {
+      "type": "hover",
+      "target": "Get this Template Get this Template",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://framer.com/",
+        "text": "Get this Template Get this Template",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 503,
+          "y": 646,
+          "width": 211,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1856605550",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 224,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "2053703455",
+        "htmlLength": 923092
+      },
+      "changed": true,
+      "screenshot": "screenshots/06-hover-Get-this-Template-Get-this-Template-6d701028a8.png"
+    },
+    {
+      "type": "hover",
+      "target": "Work with Us Work with Us",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Work with Us Work with Us",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 722,
+          "y": 646,
+          "width": 200,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1637468092",
+        "htmlLength": 922087
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 224,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1524350693",
+        "htmlLength": 922940
+      },
+      "changed": true,
+      "screenshot": "screenshots/07-hover-Work-with-Us-Work-with-Us-3a5bcca98b.png"
+    },
+    {
+      "type": "hover",
+      "target": "[data-magnetichover=\"qydCBpSYevMfu\"] { transform: translate(0.000px, 0.000px) matrix(1, 0, 0, 1, 0, 0) !important }",
+      "selector": "section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.youtube.com/watch?v=8AHPXm9Y6mI",
+        "text": "[data-magnetichover=\"qydCBpSYevMfu\"] { transform: translate(0.000px, 0.000px) matrix(1, 0, 0, 1, 0, 0) !important }",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 450,
+          "y": 1619,
+          "width": 526,
+          "height": 161
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1241237852",
+        "htmlLength": 922089
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 1249,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-119090900",
+        "htmlLength": 922390
+      },
+      "changed": true,
+      "screenshot": "screenshots/08-hover--data-magnetichover-qydCBpSYevMfu-transform-translate-0.000px-0.000px-matrix-1-0-0-1-08676776ba.png"
+    },
+    {
+      "type": "hover",
+      "target": "Schedule a Session Schedule a Session",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Schedule a Session Schedule a Session",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 120,
+          "y": 4305,
+          "width": 225,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1862983441",
+        "htmlLength": 922092
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 3883,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1297115425",
+        "htmlLength": 922241
+      },
+      "changed": true,
+      "screenshot": "screenshots/09-hover-Schedule-a-Session-Schedule-a-Session-c4a7a79b56.png"
+    },
+    {
+      "type": "hover",
+      "target": "Read More Read More",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 717,
+          "y": 6433,
+          "width": 110,
+          "height": 24
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-109155792",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 5995,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-645849279",
+        "htmlLength": 923758
+      },
+      "changed": true,
+      "screenshot": "screenshots/10-hover-Read-More-Read-More-8a62cd454a.png"
+    },
+    {
+      "type": "click",
+      "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 539,
+          "y": 32,
+          "width": 56,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1520388980",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "a",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1828079065",
+        "htmlLength": 922254
+      },
+      "changed": true,
+      "screenshot": "screenshots/11-click-div-nth-of-type-1-div-nth-of-type-1-div-nth-of-type-1-nav-nth-of-type-1-div-nth-of-t-c1bed2de23.png"
+    },
+    {
+      "type": "click",
+      "target": "Work with Us Work with Us",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Work with Us Work with Us",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 722,
+          "y": 646,
+          "width": 200,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1604603432",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/contact",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 647,
+        "bodyTextStart": "Menu Get this Template Let’s Automate Your Growth Looking to streamline operations, reduce costs, or scale your business with AI? We’re here to turn your vision into reality. Address Suite 502, Orion Tower Office hours Monday to Friday, 9:00am - 6:00pm Email hello@conicorn.com Send Your Request! LinkedIn LinkedIn Instagram Instagram Facebook Facebook Twitter X Twitter X Case Studies Contact 404 Terms Privacy © Conicorn 2026 | Built in Framer Created by N!nh Create a free website with Framer, the",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-274563101",
+        "htmlLength": 435500
+      },
+      "changed": true,
+      "screenshot": "screenshots/12-click-Work-with-Us-Work-with-Us-35acacf245.png"
+    },
+    {
+      "type": "click",
+      "target": "Schedule a Session Schedule a Session",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Schedule a Session Schedule a Session",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 120,
+          "y": 4305,
+          "width": 225,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "944510736",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/contact",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 647,
+        "bodyTextStart": "Menu Get this Template Let’s Automate Your Growth Looking to streamline operations, reduce costs, or scale your business with AI? We’re here to turn your vision into reality. Address Suite 502, Orion Tower Office hours Monday to Friday, 9:00am - 6:00pm Email hello@conicorn.com Send Your Request! LinkedIn LinkedIn Instagram Instagram Facebook Facebook Twitter X Twitter X Case Studies Contact 404 Terms Privacy © Conicorn 2026 | Built in Framer Created by N!nh Create a free website with Framer, the",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-91549727",
+        "htmlLength": 435500
+      },
+      "changed": true,
+      "screenshot": "screenshots/13-click-Schedule-a-Session-Schedule-a-Session-2afe964fd5.png"
+    },
+    {
+      "type": "click",
+      "target": "Read More Read More",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 717,
+          "y": 6433,
+          "width": 110,
+          "height": 24
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "2115786447",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "title": "AI Property Inquiry Chatbot for Real Estate Firms - Conicorn",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2635,
+        "bodyTextStart": "Menu Get this Template AI Property Inquiry Chatbot for Real Estate Firms We analyze company workflows, bottlenecks, and revenue opportunities. Timeline 8 weeks Client OneFin Industry Fintech Services Custom AI Integrations, AI Workflow Automation, Internal Tooling Challenges The client was scaling rapidly but operating on fragmented and semi-manual workflows across key financial operations. Manual data processing bottlenecks: Financial data from multiple sources (transactions, reports, client in",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "734501775",
+        "htmlLength": 454725
+      },
+      "changed": true,
+      "screenshot": "screenshots/14-click-Read-More-Read-More-c2a09f8986.png"
+    },
+    {
+      "type": "click",
+      "target": "Read More Read More",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-project-management-automation-for-creative-teams",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1644,
+          "y": 6428,
+          "width": 88,
+          "height": 19
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-2147398055",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "title": "AI Property Inquiry Chatbot for Real Estate Firms - Conicorn",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2635,
+        "bodyTextStart": "Menu Get this Template AI Property Inquiry Chatbot for Real Estate Firms We analyze company workflows, bottlenecks, and revenue opportunities. Timeline 8 weeks Client OneFin Industry Fintech Services Custom AI Integrations, AI Workflow Automation, Internal Tooling Challenges The client was scaling rapidly but operating on fragmented and semi-manual workflows across key financial operations. Manual data processing bottlenecks: Financial data from multiple sources (transactions, reports, client in",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1544508698",
+        "htmlLength": 454735
+      },
+      "changed": true,
+      "screenshot": "screenshots/15-click-Read-More-Read-More-3fadb074d2.png"
+    },
+    {
+      "type": "click",
+      "target": "Read More Read More",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies/ai-workflow-automation-for-finance-saas-company",
+        "text": "Read More Read More",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 2572,
+          "y": 6428,
+          "width": 88,
+          "height": 19
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1220378436",
+        "htmlLength": 922089
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "title": "AI Property Inquiry Chatbot for Real Estate Firms - Conicorn",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2635,
+        "bodyTextStart": "Menu Get this Template AI Property Inquiry Chatbot for Real Estate Firms We analyze company workflows, bottlenecks, and revenue opportunities. Timeline 8 weeks Client OneFin Industry Fintech Services Custom AI Integrations, AI Workflow Automation, Internal Tooling Challenges The client was scaling rapidly but operating on fragmented and semi-manual workflows across key financial operations. Manual data processing bottlenecks: Financial data from multiple sources (transactions, reports, client in",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1676614141",
+        "htmlLength": 454735
+      },
+      "changed": true,
+      "screenshot": "screenshots/16-click-Read-More-Read-More-27029f0e57.png"
+    },
+    {
+      "type": "click",
+      "target": "Explore all Case Studies Explore all Case Studies",
+      "selector": "main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies",
+        "text": "Explore all Case Studies Explore all Case Studies",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 584,
+          "y": 6691,
+          "width": 258,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "354572115",
+        "htmlLength": 922089
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "a",
+        "scrollY": 6269,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1366142509",
+        "htmlLength": 921981
+      },
+      "changed": true,
+      "screenshot": "screenshots/17-click-Explore-all-Case-Studies-Explore-all-Case-Studies-0437897a77.png"
+    },
+    {
+      "type": "click",
+      "target": "Get Starter Package Get Starter Package",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Get Starter Package Get Starter Package",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 265,
+          "y": 10466,
+          "width": 388,
+          "height": 53
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1358880239",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+        "title": "AI Property Inquiry Chatbot for Real Estate Firms - Conicorn",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2635,
+        "bodyTextStart": "Menu Get this Template AI Property Inquiry Chatbot for Real Estate Firms We analyze company workflows, bottlenecks, and revenue opportunities. Timeline 8 weeks Client OneFin Industry Fintech Services Custom AI Integrations, AI Workflow Automation, Internal Tooling Challenges The client was scaling rapidly but operating on fragmented and semi-manual workflows across key financial operations. Manual data processing bottlenecks: Financial data from multiple sources (transactions, reports, client in",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "501071810",
+        "htmlLength": 454735
+      },
+      "changed": true,
+      "screenshot": "screenshots/18-click-Get-Starter-Package-Get-Starter-Package-6f710e1f4e.png"
+    },
+    {
+      "type": "click",
+      "target": "Get Growth Package Get Growth Package",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Get Growth Package Get Growth Package",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 773,
+          "y": 10466,
+          "width": 388,
+          "height": 53
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "-1796932922",
+        "htmlLength": 922089
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/contact",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 647,
+        "bodyTextStart": "Menu Get this Template Let’s Automate Your Growth Looking to streamline operations, reduce costs, or scale your business with AI? We’re here to turn your vision into reality. Address Suite 502, Orion Tower Office hours Monday to Friday, 9:00am - 6:00pm Email hello@conicorn.com Send Your Request! LinkedIn LinkedIn Instagram Instagram Facebook Facebook Twitter X Twitter X Case Studies Contact 404 Terms Privacy © Conicorn 2026 | Built in Framer Created by N!nh Create a free website with Framer, the",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1784763279",
+        "htmlLength": 435510
+      },
+      "changed": true,
+      "screenshot": "screenshots/19-click-Get-Growth-Package-Get-Growth-Package-3d39a5bbe3.png"
+    },
+    {
+      "type": "click",
+      "target": "Book a Free Consultation Book a Free Consultation",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/contact",
+        "text": "Book a Free Consultation Book a Free Consultation",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 580,
+          "y": 10823,
+          "width": 265,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1660894410",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/contact",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 647,
+        "bodyTextStart": "Menu Get this Template Let’s Automate Your Growth Looking to streamline operations, reduce costs, or scale your business with AI? We’re here to turn your vision into reality. Address Suite 502, Orion Tower Office hours Monday to Friday, 9:00am - 6:00pm Email hello@conicorn.com Send Your Request! LinkedIn LinkedIn Instagram Instagram Facebook Facebook Twitter X Twitter X Case Studies Contact 404 Terms Privacy © Conicorn 2026 | Built in Framer Created by N!nh Create a free website with Framer, the",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1328550727",
+        "htmlLength": 435510
+      },
+      "changed": true,
+      "screenshot": "screenshots/20-click-Book-a-Free-Consultation-Book-a-Free-Consultation-b114042f24.png"
+    },
+    {
+      "type": "click",
+      "target": "Send Your Request!",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "submit",
+        "role": "",
+        "href": "",
+        "text": "Send Your Request!",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 620,
+          "y": 13997,
+          "width": 185,
+          "height": 56
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1124724501",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "input",
+        "scrollY": 13575,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "774775746",
+        "htmlLength": 923544
+      },
+      "changed": true,
+      "screenshot": "screenshots/21-click-Send-Your-Request-286b153f05.png"
+    },
+    {
+      "type": "click",
+      "target": "Case Studies",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://conicorn.framer.ai/case-studies",
+        "text": "Case Studies",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 80,
+          "y": 14293,
+          "width": 90,
+          "height": 21
+        }
+      },
+      "before": {
+        "url": "https://conicorn.framer.ai/",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 9887,
+        "bodyTextStart": "Menu Get this Template UNICORN AI PARTNER Intelligent Automation for Modern Teams We build AI-powered automation systems that eliminate manual work, reduce costs, and multiply your business performance. Get this Template Get this Template Work with Us Work with Us 001 WHO WE ARE We help startups, SMEs & enterprises design and deploy intelligent automation systems that streamline operations and unlock scalable growth. 500+ SAVED HOURS+ 80% PRODUCTIVITY BOOST 5X FASTER RESPONSE 500+ SAVED HOURS+ 8",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 2,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "620565403",
+        "htmlLength": 922090
+      },
+      "after": {
+        "url": "https://conicorn.framer.ai/case-studies",
+        "title": "Conicorn - AI Automation Agency SaaS Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 1384,
+        "bodyTextStart": "Menu Get this Template Case Studies All graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below AI Property Inquiry Chatbot for Real Estate Firms An intelligent chatbot that qualifies property inquiries, answers buyer questions, and schedules viewings. Read More Read More 3x Lead Response +40% View Bookings 24/7 Engagement AI Project Management Automation for Creative Teams Streamlining project coordina",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 1,
+          "forms": 1
+        },
+        "htmlHash": "1179380212",
+        "htmlLength": 463651
+      },
+      "changed": true,
+      "screenshot": "screenshots/22-click-Case-Studies-bcebc5d441.png"
+    }
+  ],
+  "network": [
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=557-828",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-6349",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=557-828",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-6349",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=557-828",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-6349",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=0-96",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-19086",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=557-828",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-6349",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-indexes-default-0.framercms?range=0-96",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/4vmvXLwOaYKa4yez469o/S2CsbvEsNOqyxIhbyKUP/z9TJQq07u-chunk-default-0.framercms?range=4-19086",
+      "status": 200,
+      "method": "GET",
+      "resourceType": "fetch"
+    }
+  ],
+  "consoleErrors": [],
+  "findings": [
+    "64 visible interactive candidates discovered",
+    "0 visible canvas targets discovered",
+    "21/22 actions changed DOM, URL, scroll, or visible overlay counts"
+  ]
+}

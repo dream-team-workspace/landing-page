@@ -1,0 +1,6 @@
+error when starting dev server:
+Error: Port 18124 is already in use
+    at Server.onError$1 (file:///home/dani/open-design/.od/projects/a91e6638-420a-445c-80d1-c34373b5709e/node_modules/vite/dist/node/chunks/config.js:15174:28)
+    at Server.emit (node:events:509:20)
+    at emitErrorNT (node:net:2203:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)

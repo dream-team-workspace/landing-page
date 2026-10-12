@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "fileName": "index.html",
+  "currentVersionId": "85d29f61-13ce-4eeb-942f-4bffb93420d0",
+  "entries": [
+    {
+      "id": "85d29f61-13ce-4eeb-942f-4bffb93420d0",
+      "fileName": "index.html",
+      "version": 1,
+      "label": "Version 1",
+      "createdAt": 1791819344517,
+      "source": "ai",
+      "prompt": "Website URL to clone: https://conicorn.framer.ai. Use this information for my website design /home/dani/open-design/projects/dream-team/about.md",
+      "size": 54056,
+      "mime": "text/html; charset=utf-8",
+      "kind": "html",
+      "contentPath": "0001-85d29f61-13ce-4eeb-942f-4bffb93420d0.html",
+      "contentDigest": "886210cfa1393740e78b9ae1aef8d801b0f3ddde7fbd5df8a8314bef3460c01f",
+      "promptSource": "message"
+    }
+  ]
+}

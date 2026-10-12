@@ -1,0 +1,2103 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:8123/",
+  "capturedAt": "2026-10-12T15:22:33.249Z",
+  "initial": {
+    "url": "http://127.0.0.1:8123/",
+    "title": "Dream Team — Intelligent in your hand",
+    "activeElement": "body",
+    "scrollY": 0,
+    "bodyTextChars": 8630,
+    "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+    "counts": {
+      "dialogs": 1,
+      "popovers": 0,
+      "canvases": 0,
+      "videos": 1,
+      "buttons": 22,
+      "forms": 1
+    },
+    "htmlHash": "1959640966",
+    "htmlLength": 333224
+  },
+  "discovered": {
+    "interactive": [
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#home",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 372,
+          "y": 22,
+          "width": 150,
+          "height": 44
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 532,
+          "y": 22,
+          "width": 71,
+          "height": 44
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 605,
+          "y": 22,
+          "width": 62,
+          "height": 44
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#process",
+        "text": "Process",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 669,
+          "y": 22,
+          "width": 81,
+          "height": 44
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#work",
+        "text": "Work",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 752,
+          "y": 22,
+          "width": 63,
+          "height": 44
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Download",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 817,
+          "y": 22,
+          "width": 95,
+          "height": 44
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 921,
+          "y": 21,
+          "width": 131,
+          "height": 46
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 918,
+          "y": 172,
+          "width": 43,
+          "height": 43
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Studio 001",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 227,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Apps 002",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 303,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Process 003",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 380,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(4)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Work 004",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 456,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(5)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Download 005",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 533,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(6)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "FAQ 006",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 609,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(7)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Contact 007",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 685,
+          "width": 514,
+          "height": 76
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Explore the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 548,
+          "y": 579,
+          "width": 184,
+          "height": 46
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#contact",
+        "text": "Work with us",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 744,
+          "y": 579,
+          "width": 133,
+          "height": 46
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#contact",
+        "text": "Book a review",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 147,
+          "y": 3890,
+          "width": 324,
+          "height": 46
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Previous case study",
+        "ariaLabel": "Previous case study",
+        "safeClick": true,
+        "rect": {
+          "x": 1211,
+          "y": 5818,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Next case study",
+        "ariaLabel": "Next case study",
+        "safeClick": true,
+        "rect": {
+          "x": 1265,
+          "y": 5818,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Try our apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 637,
+          "y": 6317,
+          "width": 152,
+          "height": 152
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://memechat.dream-team.works/",
+        "text": "Get MemeChat",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 147,
+          "y": 8718,
+          "width": 324,
+          "height": 46
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://zeta.dream-team.works/",
+        "text": "Get ZetaAI",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 552,
+          "y": 8717,
+          "width": 322,
+          "height": 46
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://cobatik.dream-team.works/",
+        "text": "Get CoBatik",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 955,
+          "y": 8718,
+          "width": 324,
+          "height": 46
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#contact",
+        "text": "Book a call",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1133,
+          "y": 8859,
+          "width": 145,
+          "height": 46
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Previous principle",
+        "ariaLabel": "Previous principle",
+        "safeClick": true,
+        "rect": {
+          "x": 1211,
+          "y": 9829,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Next principle",
+        "ariaLabel": "Next principle",
+        "safeClick": true,
+        "rect": {
+          "x": 1265,
+          "y": 9829,
+          "width": 44,
+          "height": 44
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "1 Which platforms do you build for?",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 270,
+          "y": 10299,
+          "width": 886,
+          "height": 66
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "2 Do the apps need an internet connection?",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 270,
+          "y": 10458,
+          "width": 886,
+          "height": 66
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "3 Is my data uploaded anywhere?",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 270,
+          "y": 10550,
+          "width": 886,
+          "height": 66
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "4 Are the apps free?",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 270,
+          "y": 10642,
+          "width": 886,
+          "height": 66
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "5 Can you build a custom app for us?",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 270,
+          "y": 10734,
+          "width": 886,
+          "height": 66
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#contact",
+        "text": "Contact us",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 640,
+          "y": 10892,
+          "width": 144,
+          "height": 46
+        }
+      },
+      {
+        "selector": "#f-name",
+        "tag": "input",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 436,
+          "y": 11514,
+          "width": 554,
+          "height": 50
+        }
+      },
+      {
+        "selector": "#f-email",
+        "tag": "input",
+        "type": "email",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 436,
+          "y": 11575,
+          "width": 554,
+          "height": 50
+        }
+      },
+      {
+        "selector": "#f-company",
+        "tag": "input",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 436,
+          "y": 11637,
+          "width": 554,
+          "height": 50
+        }
+      },
+      {
+        "selector": "#f-brief",
+        "tag": "textarea",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 436,
+          "y": 11699,
+          "width": 554,
+          "height": 112
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(12) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "submit",
+        "role": "",
+        "href": "",
+        "text": "Send your request",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 436,
+          "y": 11823,
+          "width": 554,
+          "height": 46
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://memechat.dream-team.works/",
+        "text": "MemeChat AI",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 93,
+          "y": 12174,
+          "width": 295,
+          "height": 58
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://zeta.dream-team.works/",
+        "text": "Zeta AI Assistant",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 408,
+          "y": 12174,
+          "width": 295,
+          "height": 58
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://cobatik.dream-team.works/",
+        "text": "CoBatik",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 723,
+          "y": 12174,
+          "width": 295,
+          "height": 58
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://dream-team.works/",
+        "text": "dream-team.works",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1038,
+          "y": 12174,
+          "width": 295,
+          "height": 58
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 93,
+          "y": 12299,
+          "width": 41,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#apps",
+        "text": "Capabilities",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 162,
+          "y": 12299,
+          "width": 75,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#work",
+        "text": "Work",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 265,
+          "y": 12299,
+          "width": 34,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#process",
+        "text": "Process",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 326,
+          "y": 12299,
+          "width": 51,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Download",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 406,
+          "y": 12299,
+          "width": 64,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(6)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#faq",
+        "text": "FAQ",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 498,
+          "y": 12299,
+          "width": 26,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(7)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#contact",
+        "text": "Contact",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 552,
+          "y": 12299,
+          "width": 51,
+          "height": 21
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#home",
+        "text": "Back to top",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1258,
+          "y": 12557,
+          "width": 75,
+          "height": 21
+        }
+      }
+    ],
+    "canvases": []
+  },
+  "actions": [
+    {
+      "type": "scroll",
+      "target": "middle",
+      "ratio": 0.5,
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 5856,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "-1953338900",
+        "htmlLength": 333237
+      },
+      "changed": true,
+      "screenshot": "screenshots/01-scroll-middle-b04a45f075.png"
+    },
+    {
+      "type": "scroll",
+      "target": "bottom",
+      "ratio": 1,
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 11712,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "2117542470",
+        "htmlLength": 333237
+      },
+      "changed": true,
+      "screenshot": "screenshots/02-scroll-bottom-7297e0cbea.png"
+    },
+    {
+      "type": "hover",
+      "target": "Dream Team",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#home",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 372,
+          "y": 22,
+          "width": 150,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/03-hover-Dream-Team-c95c3845b9.png"
+    },
+    {
+      "type": "hover",
+      "target": "Studio",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 532,
+          "y": 22,
+          "width": 71,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/04-hover-Studio-6786603339.png"
+    },
+    {
+      "type": "hover",
+      "target": "Apps",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 605,
+          "y": 22,
+          "width": 62,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/05-hover-Apps-8363255119.png"
+    },
+    {
+      "type": "hover",
+      "target": "Process",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#process",
+        "text": "Process",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 669,
+          "y": 22,
+          "width": 81,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/06-hover-Process-5f545d0d59.png"
+    },
+    {
+      "type": "hover",
+      "target": "Work",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#work",
+        "text": "Work",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 752,
+          "y": 22,
+          "width": 63,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/07-hover-Work-0f7f591f87.png"
+    },
+    {
+      "type": "hover",
+      "target": "Download",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Download",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 817,
+          "y": 22,
+          "width": 95,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/08-hover-Download-f03a64a571.png"
+    },
+    {
+      "type": "hover",
+      "target": "Get the apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 921,
+          "y": 21,
+          "width": 131,
+          "height": 46
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/09-hover-Get-the-apps-5574b06ec0.png"
+    },
+    {
+      "type": "hover",
+      "target": "Close menu",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 918,
+          "y": 172,
+          "width": 43,
+          "height": 43
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/10-hover-Close-menu-10648b5f30.png"
+    },
+    {
+      "type": "click",
+      "target": "Dream Team",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#home",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 372,
+          "y": 22,
+          "width": 150,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/11-click-Dream-Team-1b04958f8e.png"
+    },
+    {
+      "type": "click",
+      "target": "Studio",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 532,
+          "y": 22,
+          "width": 71,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 814,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "817138760",
+        "htmlLength": 333962
+      },
+      "changed": true,
+      "screenshot": "screenshots/12-click-Studio-bd0afaa5ca.png"
+    },
+    {
+      "type": "click",
+      "target": "Apps",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 605,
+          "y": 22,
+          "width": 62,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 2094,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "-1708812999",
+        "htmlLength": 333977
+      },
+      "changed": true,
+      "screenshot": "screenshots/13-click-Apps-f4dd8b5687.png"
+    },
+    {
+      "type": "click",
+      "target": "Process",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#process",
+        "text": "Process",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 669,
+          "y": 22,
+          "width": 81,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 3095,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1858491044",
+        "htmlLength": 333998
+      },
+      "changed": true,
+      "screenshot": "screenshots/14-click-Process-42f5710b2a.png"
+    },
+    {
+      "type": "click",
+      "target": "Work",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#work",
+        "text": "Work",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 752,
+          "y": 22,
+          "width": 63,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 3550,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "373472591",
+        "htmlLength": 334001
+      },
+      "changed": true,
+      "screenshot": "screenshots/15-click-Work-cedd34badf.png"
+    },
+    {
+      "type": "click",
+      "target": "Download",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Download",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 817,
+          "y": 22,
+          "width": 95,
+          "height": 44
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 4365,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "373472591",
+        "htmlLength": 334001
+      },
+      "changed": true,
+      "screenshot": "screenshots/16-click-Download-f5387f5be8.png"
+    },
+    {
+      "type": "click",
+      "target": "Get the apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:8123/#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 921,
+          "y": 21,
+          "width": 131,
+          "height": 46
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 4365,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "373472591",
+        "htmlLength": 334001
+      },
+      "changed": true,
+      "screenshot": "screenshots/17-click-Get-the-apps-e1a5759e3c.png"
+    },
+    {
+      "type": "click",
+      "target": "Close menu",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 918,
+          "y": 172,
+          "width": 43,
+          "height": 43
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/18-click-Close-menu-f601117199.png"
+    },
+    {
+      "type": "click",
+      "target": "Studio 001",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Studio 001",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 227,
+          "width": 514,
+          "height": 76
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/19-click-Studio-001-f879d01b2b.png"
+    },
+    {
+      "type": "click",
+      "target": "Apps 002",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Apps 002",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 303,
+          "width": 514,
+          "height": 76
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/20-click-Apps-002-f26d9e6e97.png"
+    },
+    {
+      "type": "click",
+      "target": "Process 003",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Process 003",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 380,
+          "width": 514,
+          "height": 76
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/21-click-Process-003-3efd65189c.png"
+    },
+    {
+      "type": "click",
+      "target": "Work 004",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(4)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(4)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Work 004",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 456,
+          "y": 456,
+          "width": 514,
+          "height": 76
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "after": {
+        "url": "http://127.0.0.1:8123/",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 8630,
+        "bodyTextStart": "Dream Team Studio Apps Process Work Download Get the apps MENU Studio 001 Apps 002 Process 003 Work 004 Download 005 FAQ 006 Contact 007 MOBILE AI STUDIO Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast, and always with you. Explore the apps Work with us Android & iOS Models on the device No account ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVATE BY DEFAULT LOCAL-FRIENDLY ANDROID IOS ON-DEVICE OFFLINE-FIRST NO ACCOUNT PRIVA",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 1,
+          "buttons": 22,
+          "forms": 1
+        },
+        "htmlHash": "1959640966",
+        "htmlLength": 333224
+      },
+      "changed": false,
+      "screenshot": "screenshots/22-click-Work-004-5f9d568c54.png"
+    }
+  ],
+  "network": [],
+  "consoleErrors": [],
+  "findings": [
+    "50 visible interactive candidates discovered",
+    "0 visible canvas targets discovered",
+    "8/22 actions changed DOM, URL, scroll, or visible overlay counts"
+  ]
+}

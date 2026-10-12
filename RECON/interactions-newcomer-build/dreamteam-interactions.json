@@ -1,0 +1,1585 @@
+{
+  "label": "dreamteam",
+  "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+  "capturedAt": "2026-10-12T17:01:35.371Z",
+  "initial": {
+    "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+    "title": "Dream Team — Intelligent in your hand",
+    "activeElement": "body",
+    "scrollY": 0,
+    "bodyTextChars": 2753,
+    "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+    "counts": {
+      "dialogs": 1,
+      "popovers": 0,
+      "canvases": 0,
+      "videos": 0,
+      "buttons": 6,
+      "forms": 0
+    },
+    "htmlHash": "994206396",
+    "htmlLength": 18980
+  },
+  "discovered": {
+    "interactive": [
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#top",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 18,
+          "width": 93,
+          "height": 29
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 566,
+          "y": 21,
+          "width": 37,
+          "height": 23
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#platforms",
+        "text": "Platforms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 627,
+          "y": 21,
+          "width": 67,
+          "height": 23
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 718,
+          "y": 21,
+          "width": 45,
+          "height": 23
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#inside",
+        "text": "Inside",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 787,
+          "y": 21,
+          "width": 42,
+          "height": 23
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1174,
+          "y": 12,
+          "width": 123,
+          "height": 40
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 1367,
+          "y": 12,
+          "width": 34,
+          "height": 34
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 54,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Platforms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 109,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 163,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(4)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Inside",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 218,
+          "width": 1385,
+          "height": 54
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 287,
+          "width": 1385,
+          "height": 40
+        }
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 677,
+          "width": 123,
+          "height": 40
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#apps",
+        "text": "See the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 656,
+          "y": 4280,
+          "width": 113,
+          "height": 23
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 4744,
+          "width": 467,
+          "height": 23
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://memechat.dream-team.works/",
+        "text": "MemeChat AI @memechat Point the camera at any meme and get the joke, the context and the right reply — analysed on-devic",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 666,
+          "y": 4486,
+          "width": 631,
+          "height": 190
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://zeta.dream-team.works/",
+        "text": "Zeta AI Assistant @zeta One companion across macOS, Windows, Linux, iOS and Android, with the same personality on each. ",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 722,
+          "y": 4692,
+          "width": 575,
+          "height": 190
+        }
+      },
+      {
+        "selector": "section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://memechat.dream-team.works/",
+        "text": "MemeChat AI",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 192,
+          "y": 5423,
+          "width": 154,
+          "height": 42
+        }
+      },
+      {
+        "selector": "section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://zeta.dream-team.works/",
+        "text": "Zeta AI Assistant",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 358,
+          "y": 5423,
+          "width": 178,
+          "height": 42
+        }
+      },
+      {
+        "selector": "section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://cobatik.dream-team.works/",
+        "text": "CoBatik",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 549,
+          "y": 5423,
+          "width": 113,
+          "height": 42
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#top",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 5884,
+          "width": 93,
+          "height": 33
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://memechat.dream-team.works/",
+        "text": "MemeChat AI",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 534,
+          "y": 5890,
+          "width": 95,
+          "height": 23
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://zeta.dream-team.works/",
+        "text": "Zeta AI Assistant",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 653,
+          "y": 5890,
+          "width": 119,
+          "height": 23
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://cobatik.dream-team.works/",
+        "text": "CoBatik",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 796,
+          "y": 5890,
+          "width": 55,
+          "height": 23
+        }
+      },
+      {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://dream-team.works/",
+        "text": "dream-team.works",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1163,
+          "y": 5890,
+          "width": 134,
+          "height": 23
+        }
+      }
+    ],
+    "canvases": []
+  },
+  "actions": [
+    {
+      "type": "scroll",
+      "target": "middle",
+      "ratio": 0.5,
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 2521,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "-1937299215",
+        "htmlLength": 18989
+      },
+      "changed": true,
+      "screenshot": "screenshots/01-scroll-middle-b04a45f075.png"
+    },
+    {
+      "type": "scroll",
+      "target": "bottom",
+      "ratio": 1,
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 5041,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "89482865",
+        "htmlLength": 18983
+      },
+      "changed": true,
+      "screenshot": "screenshots/02-scroll-bottom-7297e0cbea.png"
+    },
+    {
+      "type": "hover",
+      "target": "Dream Team",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#top",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 18,
+          "width": 93,
+          "height": 29
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/03-hover-Dream-Team-0fc1efba17.png"
+    },
+    {
+      "type": "hover",
+      "target": "Apps",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 566,
+          "y": 21,
+          "width": 37,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/04-hover-Apps-61f20e94b8.png"
+    },
+    {
+      "type": "hover",
+      "target": "Platforms",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#platforms",
+        "text": "Platforms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 627,
+          "y": 21,
+          "width": 67,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/05-hover-Platforms-3bfd910a1f.png"
+    },
+    {
+      "type": "hover",
+      "target": "Studio",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 718,
+          "y": 21,
+          "width": 45,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/06-hover-Studio-38ccf34e37.png"
+    },
+    {
+      "type": "hover",
+      "target": "Inside",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#inside",
+        "text": "Inside",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 787,
+          "y": 21,
+          "width": 42,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/07-hover-Inside-e98ee6e173.png"
+    },
+    {
+      "type": "hover",
+      "target": "Get the apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1174,
+          "y": 12,
+          "width": 123,
+          "height": 40
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/08-hover-Get-the-apps-7d4fcff163.png"
+    },
+    {
+      "type": "hover",
+      "target": "Close menu",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 1367,
+          "y": 12,
+          "width": 34,
+          "height": 34
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/09-hover-Close-menu-547265e5b7.png"
+    },
+    {
+      "type": "hover",
+      "target": "Apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 54,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/10-hover-Apps-955b2e381c.png"
+    },
+    {
+      "type": "click",
+      "target": "Dream Team",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#top",
+        "text": "Dream Team",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 128,
+          "y": 18,
+          "width": 93,
+          "height": 29
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/11-click-Dream-Team-1124ee3273.png"
+    },
+    {
+      "type": "click",
+      "target": "Apps",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#apps",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 566,
+          "y": 21,
+          "width": 37,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 912,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "577227451",
+        "htmlLength": 18983
+      },
+      "changed": true,
+      "screenshot": "screenshots/12-click-Apps-17b46d8086.png"
+    },
+    {
+      "type": "click",
+      "target": "Platforms",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#platforms",
+        "text": "Platforms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 627,
+          "y": 21,
+          "width": 67,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 2379,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "1286013184",
+        "htmlLength": 18998
+      },
+      "changed": true,
+      "screenshot": "screenshots/13-click-Platforms-db15cd5954.png"
+    },
+    {
+      "type": "click",
+      "target": "Studio",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#studio",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 718,
+          "y": 21,
+          "width": 45,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 2839,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "1286013184",
+        "htmlLength": 18998
+      },
+      "changed": true,
+      "screenshot": "screenshots/14-click-Studio-dee43bd291.png"
+    },
+    {
+      "type": "click",
+      "target": "Inside",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#inside",
+        "text": "Inside",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 787,
+          "y": 21,
+          "width": 42,
+          "height": 23
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 3249,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "-866031424",
+        "htmlLength": 19004
+      },
+      "changed": true,
+      "screenshot": "screenshots/15-click-Inside-4885aa288c.png"
+    },
+    {
+      "type": "click",
+      "target": "Get the apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html#download",
+        "text": "Get the apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 1174,
+          "y": 12,
+          "width": 123,
+          "height": 40
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "a",
+        "scrollY": 3500,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "-866031424",
+        "htmlLength": 19004
+      },
+      "changed": true,
+      "screenshot": "screenshots/16-click-Get-the-apps-3f3d1e23f0.png"
+    },
+    {
+      "type": "click",
+      "target": "Close menu",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Close menu",
+        "ariaLabel": "Close menu",
+        "safeClick": true,
+        "rect": {
+          "x": 1367,
+          "y": 12,
+          "width": 34,
+          "height": 34
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/17-click-Close-menu-1b3cafe325.png"
+    },
+    {
+      "type": "click",
+      "target": "Apps",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Apps",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 54,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/18-click-Apps-79105db27c.png"
+    },
+    {
+      "type": "click",
+      "target": "Platforms",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Platforms",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 109,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/19-click-Platforms-9a09903510.png"
+    },
+    {
+      "type": "click",
+      "target": "Studio",
+      "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+      "meta": {
+        "selector": "html > body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3)",
+        "tag": "button",
+        "type": "",
+        "role": "",
+        "href": "",
+        "text": "Studio",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 20,
+          "y": 163,
+          "width": 1385,
+          "height": 55
+        }
+      },
+      "before": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "after": {
+        "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 2753,
+        "bodyTextStart": "Dream Team Apps Platforms Studio Inside Get the apps MENU Apps Platforms Studio Inside Get the apps Intelligent in your hand We build mobile-specific, AI-powered applications that run on your device — private, fast and always with you. Get the apps Three apps, all shipping today Everything runs on the device Vision, text and speech models running locally — no round-trip, no queue, no metered data. Meme Smarter, Not Harder Ask, roast, caption and translate — a vision-language model that runs enti",
+        "counts": {
+          "dialogs": 1,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 0
+        },
+        "htmlHash": "994206396",
+        "htmlLength": 18980
+      },
+      "changed": false,
+      "screenshot": "screenshots/20-click-Studio-5ab9d842bd.png"
+    }
+  ],
+  "network": [],
+  "consoleErrors": [],
+  "findings": [
+    "25 visible interactive candidates discovered",
+    "0 visible canvas targets discovered",
+    "7/20 actions changed DOM, URL, scroll, or visible overlay counts"
+  ]
+}

@@ -1,0 +1,1083 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Dream Team — Intelligent in your hand</title>
+<meta name="description" content="We build mobile-specific, AI-powered applications that run on your device. MemeChat AI, Zeta AI Assistant and CoBatik — private, fast and always with you." />
+<meta name="theme-color" content="#ffffff" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Dream Team — Intelligent in your hand" />
+<meta property="og:description" content="We build mobile-specific, AI-powered applications that run on your device. AI-driven, local-friendly mobile apps for Android and iOS." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%231a1a1a'/%3E%3Cpath d='M16 7.5l2.1 5.2 5.4 2.1-5.4 2.1L16 24.5l-2.1-7.6L8.5 14.8l5.4-2.1z' fill='%23fff'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/fonts/fonts.css" />
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<div id="root"></div>
+
+<script src="assets/vendor/react.development.js"></script>
+<script src="assets/vendor/react-dom.development.js"></script>
+<script src="assets/vendor/babel.min.js"></script>
+<script>
+  // Inline TSX support: preset-typescript needs allExtensions + isTSX because
+  // Babel standalone gives inline scripts the filename "unknown".
+  Babel.registerPreset("od-tsx", {
+    presets: [[Babel.availablePresets.typescript, { allExtensions: true, isTSX: true }]]
+  });
+</script>
+
+<script type="text/babel" data-presets="od-tsx,react">
+type IconProps = { size?: number; stroke?: number };
+
+const Svg = ({ size = 20, stroke = 1.7, children }: IconProps & { children: React.ReactNode }) => (
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+       strokeWidth={stroke} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">{children}</svg>
+);
+
+const IcoSpark = (p: IconProps) => (<Svg {...p}><path d="M12 3l1.9 4.7L18.6 9.6l-4.7 1.9L12 16.2l-1.9-4.7L5.4 9.6l4.7-1.9z" /><path d="M18.5 15.5l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z" /></Svg>);
+const IcoArrowR = (p: IconProps) => (<Svg {...p}><path d="M5 12h14" /><path d="M13 6l6 6-6 6" /></Svg>);
+const IcoArrowL = (p: IconProps) => (<Svg {...p}><path d="M19 12H5" /><path d="M11 18l-6-6 6-6" /></Svg>);
+const IcoCheck = (p: IconProps) => (<Svg {...p}><path d="M4 12.5l5 5L20 6.5" /></Svg>);
+const IcoPlus = (p: IconProps) => (<Svg {...p}><path d="M12 5v14" /><path d="M5 12h14" /></Svg>);
+const IcoMenu = (p: IconProps) => (<Svg {...p}><path d="M4 8h16" /><path d="M4 16h16" /></Svg>);
+const IcoClose = (p: IconProps) => (<Svg {...p}><path d="M6 6l12 12" /><path d="M18 6L6 18" /></Svg>);
+const IcoChip = (p: IconProps) => (<Svg {...p}><rect x="7" y="7" width="10" height="10" rx="2.5" /><path d="M10 3v3M14 3v3M10 18v3M14 18v3M3 10h3M3 14h3M18 10h3M18 14h3" /></Svg>);
+const IcoEye = (p: IconProps) => (<Svg {...p}><path d="M2.5 12S6 5.8 12 5.8 21.5 12 21.5 12 18 18.2 12 18.2 2.5 12 2.5 12z" /><circle cx="12" cy="12" r="3" /></Svg>);
+const IcoBrain = (p: IconProps) => (<Svg {...p}><path d="M12 5.5a3 3 0 00-5.7 1.3A2.8 2.8 0 005 9.6c0 1 .5 1.9 1.3 2.4A2.9 2.9 0 007.5 17c.6.6 1.4.9 2.3.9H12z" /><path d="M12 5.5a3 3 0 015.7 1.3A2.8 2.8 0 0119 9.6c0 1-.5 1.9-1.3 2.4A2.9 2.9 0 0116.5 17c-.6.6-1.4.9-2.3.9H12z" /><path d="M12 5.5v12.4" /></Svg>);
+const IcoShield = (p: IconProps) => (<Svg {...p}><path d="M12 3l7 3v6c0 4.2-2.9 7.6-7 9-4.1-1.4-7-4.8-7-9V6z" /><path d="M9.2 12.2l2 2 3.6-3.9" /></Svg>);
+const IcoKey = (p: IconProps) => (<Svg {...p}><circle cx="8" cy="15" r="3.4" /><path d="M10.5 12.5L20 3" /><path d="M17 6l2 2" /><path d="M14.5 8.5l2 2" /></Svg>);
+const IcoLock = (p: IconProps) => (<Svg {...p}><rect x="4.5" y="10.5" width="15" height="10" rx="3" /><path d="M8 10.5V8a4 4 0 018 0v2.5" /></Svg>);
+const IcoCloudOff = (p: IconProps) => (<Svg {...p}><path d="M7.5 18.5h9.2a3.3 3.3 0 001-6.5 4.6 4.6 0 00-1.2-3.1" /><path d="M10.4 6.2A4.5 4.5 0 0116 9.1" /><path d="M4 5.5l15 14" /><path d="M6.4 10.3A3.6 3.6 0 006.2 18.5h1.3" /></Svg>);
+const IcoWallet = (p: IconProps) => (<Svg {...p}><rect x="3.5" y="6.5" width="17" height="11" rx="3" /><path d="M3.5 10.5h17" /><circle cx="16.5" cy="14" r="1.1" fill="currentColor" stroke="none" /></Svg>);
+const IcoChat = (p: IconProps) => (<Svg {...p}><path d="M4 6.5A2.5 2.5 0 016.5 4h11A2.5 2.5 0 0120 6.5v7A2.5 2.5 0 0117.5 16H9l-5 4z" /></Svg>);
+const IcoDevice = (p: IconProps) => (<Svg {...p}><rect x="7" y="3" width="10" height="18" rx="3" /><path d="M11 17.5h2" /></Svg>);
+const IcoRoute = (p: IconProps) => (<Svg {...p}><circle cx="6" cy="6.5" r="2.5" /><circle cx="18" cy="17.5" r="2.5" /><path d="M8.5 6.5H14a3.5 3.5 0 010 7h-4a3.5 3.5 0 000 7h.5" /></Svg>);
+const IcoHand = (p: IconProps) => (<Svg {...p}><path d="M8 11V5.5a1.6 1.6 0 013.2 0V11" /><path d="M11.2 10.5V4.8a1.6 1.6 0 013.2 0v5.7" /><path d="M14.4 11V6.6a1.6 1.6 0 013.2 0V14a7 7 0 01-7 7h-.6a6 6 0 01-5-2.7L4 15.6a1.7 1.7 0 012.6-2.1L8 15" /></Svg>);
+const IcoCompass = (p: IconProps) => (<Svg {...p}><circle cx="12" cy="12" r="8.5" /><path d="M14.8 9.2l-1.5 4-4 1.6 1.5-4z" /></Svg>);
+const IcoGrid = (p: IconProps) => (<Svg {...p}><rect x="4" y="4" width="7" height="7" rx="2" /><rect x="13" y="4" width="7" height="7" rx="2" /><rect x="4" y="13" width="7" height="7" rx="2" /><rect x="13" y="13" width="7" height="7" rx="2" /></Svg>);
+const IcoGlobe = (p: IconProps) => (<Svg {...p}><circle cx="12" cy="12" r="8.5" /><path d="M3.5 12h17" /><path d="M12 3.5c2.4 2.4 3.6 5.3 3.6 8.5S14.4 18.1 12 20.5C9.6 18.1 8.4 15.2 8.4 12S9.6 5.9 12 3.5z" /></Svg>);
+const IcoLayers = (p: IconProps) => (<Svg {...p}><path d="M12 3.5l8 4.2-8 4.2-8-4.2z" /><path d="M4 12.2l8 4.2 8-4.2" /><path d="M4 16.4l8 4.2 8-4.2" /></Svg>);
+
+/* ------------------------------------------------------------------ content */
+type AppCard = {
+  id: string; name: string; url: string; icon: string; tagline: string; price: string;
+  spec: string[]; features: string[]; featured?: boolean; cta: string;
+};
+
+const APPS: AppCard[] = [
+  {
+    id: "memechat", name: "MemeChat AI", url: "https://memechat.dream-team.works",
+    icon: "assets/img/app-memechat-home.webp", tagline: "Meme intelligence for Android",
+    price: "Free", spec: ["Android 8+", "504 MB", "No account"],
+    features: ["Meme Vision on-device", "Private memory of your bits", "Works in airplane mode", "Retrieval with real sources"],
+    cta: "Get MemeChat"
+  },
+  {
+    id: "zeta", name: "Zeta AI Assistant", url: "https://zeta.dream-team.works",
+    icon: "assets/img/app-zeta-portrait.jpg", tagline: "Your offline companion", featured: true,
+    price: "Free", spec: ["macOS", "Windows", "Linux", "iOS", "Android"],
+    features: ["Local chat and voice", "Interactive avatar", "Private by default", "No account, no sync"],
+    cta: "Get ZetaAI"
+  },
+  {
+    id: "cobatik", name: "CoBatik", url: "https://cobatik.dream-team.works",
+    icon: "assets/img/app-cobatik.webp", tagline: "Batik virtual try-on",
+    price: "Free", spec: ["Android 7.0+", "Bahasa & English", "No account"],
+    features: ["Archive of hand-drawn batik", "Four garment styles", "Guided four-step flow", "Stories behind each motif"],
+    cta: "Get CoBatik"
+  }
+];
+
+type CaseItem = {
+  id: string; brand: string; title: string; body: string; art: string; alt: string;
+  metrics: [string, string][];
+};
+
+const CASES: CaseItem[] = [
+  {
+    id: "case-memechat", brand: "MemeChat AI", title: "Meme Smarter, Not Harder",
+    body: "An offline-first AI chat that actually knows memes. Vision, memory and retrieval ship inside a 504 MB model running entirely on the phone — ask, roast, caption and translate without a single upload.",
+    art: "assets/img/case-memechat.jpg",
+    alt: "Abstract white floral burst on black, the MemeChat case study artwork",
+    metrics: [["504 MB", "Model on device"], ["0", "Uploads, ever"], ["100%", "On-device inference"]]
+  },
+  {
+    id: "case-zeta", brand: "Zeta AI Assistant", title: "Offline AI Companion",
+    body: "Chat, voice and an interactive avatar that run entirely on your own machine. ZetaAI keeps its personality between sessions, needs no account, and keeps working when the network does not.",
+    art: "assets/img/case-zeta.jpg",
+    alt: "Liquid metal cross form on black, the Zeta AI Assistant case study artwork",
+    metrics: [["5", "Platforms shipped"], ["0", "Accounts, no telemetry"], ["3", "Steps to set up"]]
+  },
+  {
+    id: "case-cobatik", brand: "CoBatik", title: "Kenakan arsipnya",
+    body: "A batik virtual try-on studio for Android. Browse a real archive of hand-drawn cloth from Cirebon, Yogyakarta, Pekalongan and Lasem, then see the motif drawn onto your own portrait.",
+    art: "assets/img/case-cobatik.jpg",
+    alt: "Polished black droplet on a dark surface, the CoBatik case study artwork",
+    metrics: [["6+", "Catalogued motifs"], ["4", "Cities in the archive"], ["4", "Steps, one portrait"]]
+  }
+];
+
+type Quote = { id: string; tag: string; brand: string; text: string };
+
+const QUOTES: Quote[] = [
+  { id: "q-vision", tag: "Meme Vision", brand: "MemeChat AI", text: "Point the camera at any meme and get the joke, the context and the right reply — analysed on-device in seconds." },
+  { id: "q-memory", tag: "It Remembers", brand: "MemeChat AI", text: "Running jokes, names, bits. MemeChat keeps a private memory of your conversation so you never repeat yourself twice." },
+  { id: "q-offline", tag: "Truly Offline", brand: "MemeChat AI", text: "No signal, no problem. Chat, roast, translate and caption even in airplane mode. Nothing is ever uploaded." },
+  { id: "q-sources", tag: "Answers With Receipts", brand: "MemeChat AI", text: "When a joke needs a fact, MemeChat searches the web and your own photo roll, then grounds the reply in real sources." },
+  { id: "q-avatar", tag: "Interactive Avatar", brand: "Zeta AI Assistant", text: "An animated companion that reacts, emotes and talks with you while you work — built from local models, not a render farm." },
+  { id: "q-platforms", tag: "Every Platform", brand: "Zeta AI Assistant", text: "One companion across macOS, Windows, Linux, iOS and Android, with the same personality on each." }
+];
+
+const PRINCIPLES = [
+  { id: "p-1", n: "01", title: "On-device first", text: "If a phone can run it, a phone should run it. Latency, privacy and cost all point the same direction." },
+  { id: "p-2", n: "02", title: "Local-friendly", text: "Software that respects where you are: cheap data, weak signal, mid-range hardware, older Android." },
+  { id: "p-3", n: "03", title: "AI-driven", text: "The model is the product, not a chatbot bolted onto a form. Every screen exists because of what the model can do." },
+  { id: "p-4", n: "04", title: "Craft over templates", text: "No store template, no stock flow. Each app is designed around one job and shipped when it does it well." }
+];
+
+const FAQS = [
+  { q: "Which platforms do you build for?", a: "Android and iOS are the default, and our own apps ship on both. Zeta AI Assistant also runs on macOS, Windows and Linux because it started life as a desktop companion." },
+  { q: "Do the apps need an internet connection?", a: "MemeChat AI and Zeta AI Assistant are offline-first: the model ships inside the app, so chat, vision and voice keep working in airplane mode. CoBatik needs a connection for the try-on render, which runs on our server." },
+  { q: "Is my data uploaded anywhere?", a: "For MemeChat AI and Zeta AI Assistant, no. Inference happens on your device and there is no account, no sync and no telemetry. CoBatik straightens and compresses the portrait you take before sending it, and returns only the preview." },
+  { q: "Are the apps free?", a: "Yes. All three apps are free to download, and none of them ask you to create an account." },
+  { q: "Can you build a custom app for us?", a: "Yes — that is most of what the studio does. Bring the job to be done and we will tell you honestly what fits on a device and what still needs a server." }
+];
+
+const TECH = [
+  { id: "t-1", label: "On-device LLM", icon: <IcoBrain size={15} /> },
+  { id: "t-2", label: "Vision models", icon: <IcoEye size={15} /> },
+  { id: "t-3", label: "On-device RAG", icon: <IcoLayers size={15} /> },
+  { id: "t-4", label: "Camera pipeline", icon: <IcoChip size={15} /> },
+  { id: "t-5", label: "Quantisation", icon: <IcoGrid size={15} /> },
+  { id: "t-6", label: "Offline sync", icon: <IcoCloudOff size={15} /> },
+  { id: "t-7", label: "No-account auth", icon: <IcoKey size={15} /> },
+  { id: "t-8", label: "Edge inference", icon: <IcoRoute size={15} /> },
+  { id: "t-9", label: "Store release", icon: <IcoDevice size={15} /> },
+  { id: "t-10", label: "Mobile UX", icon: <IcoHand size={15} /> },
+  { id: "t-11", label: "Cross-platform", icon: <IcoGlobe size={15} /> },
+  { id: "t-12", label: "Offline-first", icon: <IcoCompass size={15} /> }
+];
+
+const STEP_ICONS = [<IcoCompass size={22} />, <IcoGrid size={22} />, <IcoChip size={22} />, <IcoEye size={22} />, <IcoSpark size={22} />];
+
+const STEPS = [
+  { n: "01", title: "Discover & Scope", text: "We map the job to be done and what the device can realistically run." },
+  { n: "02", title: "Model & Data Plan", text: "Pick the model, the size budget, the quantisation and the fallbacks." },
+  { n: "03", title: "Build the App", text: "One codebase, two stores — native-feel UI wired to on-device inference." },
+  { n: "04", title: "Test on Real Devices", text: "Thermals, memory, battery and offline edge cases, measured on mid-range hardware." },
+  { n: "05", title: "Ship & Iterate", text: "Store release, crash loops, model updates and the next version." }
+];
+
+const VALUES = [
+  { n: "01", title: "AI-Driven by Default", text: "Every app ships with a model on the device, not an API key in the cloud.", icon: <IcoBrain size={26} stroke={1.5} /> },
+  { n: "02", title: "Local-Friendly Architecture", text: "Offline-first by design. No accounts, no sync, no telemetry — your data stays where it belongs.", icon: <IcoCloudOff size={26} stroke={1.5} /> },
+  { n: "03", title: "Built for Real Phones", text: "Small binaries, fast cold starts, honest battery use — tuned for mid-range Android and iOS.", icon: <IcoDevice size={26} stroke={1.5} /> }
+];
+
+const SECURE = [
+  { id: "s-1", label: "On-Device Inference", icon: <IcoChip size={19} /> },
+  { id: "s-2", label: "No Account Needed", icon: <IcoKey size={19} /> },
+  { id: "s-3", label: "Private by Default", icon: <IcoLock size={19} /> },
+  { id: "s-4", label: "Works Offline", icon: <IcoCloudOff size={19} /> }
+];
+
+/* --------------------------------------------------------------- behaviour */
+function useRevealOnScroll() {
+  React.useEffect(() => {
+    const nodes = Array.from(document.querySelectorAll<HTMLElement>(".reveal, .statement"));
+    if (!("IntersectionObserver" in window)) {
+      nodes.forEach((n) => n.classList.add("in"));
+      return;
+    }
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) {
+          e.target.classList.add("in");
+          io.unobserve(e.target);
+        }
+      });
+    }, { rootMargin: "0px 0px -12% 0px", threshold: 0.12 });
+    nodes.forEach((n) => io.observe(n));
+    return () => io.disconnect();
+  }, []);
+}
+
+function useStickyNav() {
+  const [solid, setSolid] = React.useState(false);
+  React.useEffect(() => {
+    const onScroll = () => setSolid(window.scrollY > 40);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+  return solid;
+}
+
+/** Native horizontal scroller with arrow controls; position is remembered. */
+function useScroller(storageKey: string) {
+  const ref = React.useRef<HTMLDivElement | null>(null);
+  const [page, setPage] = React.useState(0);
+  const [pages, setPages] = React.useState(1);
+
+  const measure = React.useCallback(() => {
+    const el = ref.current;
+    if (!el) return;
+    const size = el.clientWidth || 1;
+    const total = Math.max(1, Math.round(el.scrollWidth / size));
+    setPages(total);
+    setPage(Math.min(total - 1, Math.round(el.scrollLeft / size)));
+  }, []);
+
+  React.useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    measure();
+    const saved = Number(window.localStorage.getItem(storageKey) || "0");
+    if (saved > 0) el.scrollLeft = saved * (el.clientWidth || 1);
+    const onScroll = () => {
+      const size = el.clientWidth || 1;
+      const idx = Math.round(el.scrollLeft / size);
+      setPage(idx);
+      window.localStorage.setItem(storageKey, String(idx));
+    };
+    el.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", measure);
+    return () => {
+      el.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", measure);
+    };
+  }, [measure, storageKey]);
+
+  const go = (dir: number) => {
+    const el = ref.current;
+    if (!el) return;
+    const next = Math.min(pages - 1, Math.max(0, page + dir));
+    el.scrollTo({ left: next * (el.clientWidth || 1), behavior: "smooth" });
+  };
+
+  return { ref, page, pages, go };
+}
+
+function useAnchors() {
+  return (e: React.MouseEvent, id: string) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    e.preventDefault();
+    const top = el.getBoundingClientRect().top + window.scrollY - 84;
+    window.scrollTo({ top, behavior: "smooth" });
+  };
+}
+
+/* ------------------------------------------------------------------ layout */
+const NAV_ITEMS = [
+  { id: "studio", label: "Studio", n: "001" },
+  { id: "apps", label: "Apps", n: "002" },
+  { id: "process", label: "Process", n: "003" },
+  { id: "work", label: "Work", n: "004" },
+  { id: "download", label: "Download", n: "005" },
+  { id: "faq", label: "FAQ", n: "006" },
+  { id: "contact", label: "Contact", n: "007" }
+];
+
+function Nav() {
+  const solid = useStickyNav();
+  const [open, setOpen] = React.useState(false);
+  const goto = useAnchors();
+
+  React.useEffect(() => {
+    const onKey = (e: KeyboardEvent) => { if (e.key === "Escape") setOpen(false); };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
+  const jump = (e: React.MouseEvent, id: string) => { setOpen(false); goto(e, id); };
+
+  return (
+    <React.Fragment>
+      <header className={"nav" + (solid ? " nav-solid" : "")} data-od-id="site-nav">
+        <div className="nav-shell">
+          <a className="brand" href="#home" data-od-id="nav-brand"
+             onClick={(e) => { window.scrollTo({ top: 0, behavior: "smooth" }); e.preventDefault(); }}>
+            <span className="brand-mark"><IcoSpark size={16} /></span>
+            <span className="brand-name">Dream Team</span>
+          </a>
+          <nav className="nav-links" aria-label="Primary">
+            {NAV_ITEMS.slice(0, 5).map((i) => (
+              <a key={i.id} className="nav-link" href={"#" + i.id} data-od-id={"nav-" + i.id}
+                 onClick={(e) => goto(e, i.id)}>{i.label}</a>
+            ))}
+          </nav>
+          <button className="btn btn-quiet nav-toggle" data-od-id="nav-menu-toggle"
+                  aria-expanded={open} aria-controls="menu-sheet" onClick={() => setOpen(true)}>
+            <IcoMenu size={17} /> Menu
+          </button>
+          <a className="btn btn-primary" href="#download" data-od-id="nav-cta" onClick={(e) => goto(e, "download")}>
+            Get the apps
+          </a>
+        </div>
+      </header>
+
+      <div id="menu-sheet" className={"menu-sheet" + (open ? " open" : "")} role="dialog" aria-modal="true"
+           aria-label="Site menu" onClick={() => setOpen(false)}>
+        <div className="menu-card" onClick={(e) => e.stopPropagation()}>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "6px 8px 12px" }}>
+            <span className="tiny" style={{ letterSpacing: "0.18em", textTransform: "uppercase" }}>Menu</span>
+            <button className="icon-btn" onClick={() => setOpen(false)} aria-label="Close menu"><IcoClose size={17} /></button>
+          </div>
+          {NAV_ITEMS.map((i) => (
+            <button key={i.id} className="menu-item" data-od-id={"menu-" + i.id} onClick={(e) => jump(e, i.id)}>
+              {i.label} <span>{i.n}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    </React.Fragment>
+  );
+}
+
+function Platforms() {
+  const words = ["Android", "iOS", "On-device", "Offline-first", "No account", "Private by default", "Local-friendly"];
+  const group = (
+    <div className="platforms-group" aria-hidden="true">
+      {words.map((w, i) => <span className="platform" key={w + i}>{w}</span>)}
+    </div>
+  );
+  return (
+    <div className="platforms" data-od-id="hero-platforms">
+      <div className="platforms-track">{group}{group}</div>
+    </div>
+  );
+}
+
+function Hero() {
+  const videoRef = React.useRef<HTMLVideoElement | null>(null);
+  const goto = useAnchors();
+
+  React.useEffect(() => {
+    const v = videoRef.current;
+    if (!v) return;
+    v.muted = true;
+    const played = v.play();
+    if (played && typeof played.catch === "function") played.catch(() => {});
+  }, []);
+
+  return (
+    <section className="hero" id="home" data-od-id="hero">
+      <div className="hero-media" aria-hidden="true">
+        <video ref={videoRef} src="assets/media/hero-blob.mp4" autoPlay loop muted playsInline preload="metadata" />
+      </div>
+      <div className="hero-scrim" aria-hidden="true" />
+      <div className="hero-frame" aria-hidden="true" />
+
+      <div className="hero-inner">
+        <span className="badge reveal"><IcoSpark size={13} /> Mobile AI Studio</span>
+        <h1 className="display reveal reveal-d1" data-od-id="hero-title">
+          Intelligent{" "}<br /><span className="gradient-text">in your hand</span>
+        </h1>
+        <p className="lede reveal reveal-d2" data-od-id="hero-sub">
+          We build mobile-specific, AI-powered applications that run on your device —
+          private, fast, and always with you.
+        </p>
+        <div className="hero-cta reveal reveal-d3">
+          <a className="btn btn-light" href="#download" data-od-id="hero-cta-primary" onClick={(e) => goto(e, "download")}>
+            Explore the apps <IcoArrowR size={16} />
+          </a>
+          <a className="btn btn-glass" href="#contact" data-od-id="hero-cta-secondary" onClick={(e) => goto(e, "contact")}>
+            Work with us
+          </a>
+        </div>
+        <div className="hero-meta reveal reveal-d3">
+          <span><IcoDevice size={15} /> Android &amp; iOS</span>
+          <span><IcoChip size={15} /> Models on the device</span>
+          <span><IcoKey size={15} /> No account</span>
+        </div>
+      </div>
+
+      <div className="hero-foot">
+        <Platforms />
+        <div className="scroll-cue" aria-hidden="true"><span>Scroll</span><i /></div>
+      </div>
+    </section>
+  );
+}
+
+function Studio() {
+  const words = "We build AI-driven, local-friendly mobile applications for Android and iOS — software that runs on your device, not in a data centre.".split(" ");
+  const ref = React.useRef<HTMLElement | null>(null);
+
+  React.useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        el.querySelectorAll<HTMLElement>(".w").forEach((w, i) => {
+          w.style.transitionDelay = Math.min(i * 34, 900) + "ms";
+        });
+        el.classList.add("in");
+        io.disconnect();
+      });
+    }, { threshold: 0.35 });
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+
+  return (
+    <section className="sec" id="studio" ref={ref as React.RefObject<HTMLElement>} data-od-id="studio">
+      <div className="wrap">
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 26 }}>
+          <span className="sec-badge" data-od-id="studio-badge"><b>001</b><i />Who we are</span>
+          <p className="statement" data-od-id="studio-statement">
+            {words.map((w, i) => <span className="w" key={w + i}>{w}{" "}</span>)}
+          </p>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function StatsBand() {
+  const group = (
+    <div className="band-group" aria-hidden="true">
+      <span className="band-num">100%</span><span className="band-label">on-device</span>
+      <span className="band-pill"><img src="assets/img/studio-meeting.jpg" alt="" width={1200} height={800} /></span>
+      <span className="band-num">3</span><span className="band-label">apps shipped</span>
+      <span className="band-num">0</span><span className="band-label">uploads</span>
+      <span className="band-pill"><img src="assets/img/batik-women.jpg" alt="" width={800} height={1014} /></span>
+      <span className="band-num">504</span><span className="band-label">MB model</span>
+    </div>
+  );
+  return (
+    <div className="band" data-od-id="stats-band">
+      <div className="band-track">{group}{group}</div>
+      <p className="sr">100% on-device, 3 apps shipped, 0 uploads, the largest model is 504 MB.</p>
+    </div>
+  );
+}
+
+function Values() {
+  return (
+    <section className="sec" id="values" data-od-id="values">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>002</b><i />Value</span>
+          <h2 className="h2" data-od-id="values-title">Why Dream Team?</h2>
+          <p className="lede">We build mobile-specific, AI-powered applications that keep working when the network does not.</p>
+        </div>
+        <div className="grid-3" style={{ marginTop: 48 }}>
+          {VALUES.map((v, i) => (
+            <article className={"value-card reveal reveal-d" + i} key={v.n} data-od-id={"value-card-" + v.n}>
+              <div className="value-tile">
+                <span className="value-orb">{v.icon}</span>
+                <span className="value-num">{v.n}</span>
+              </div>
+              <div className="value-body">
+                <h3 className="h3">{v.title}</h3>
+                <p className="small">{v.text}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Stack() {
+  return (
+    <section className="sec" id="apps" data-od-id="stack">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>003</b><i />Capabilities</span>
+          <h2 className="h2" data-od-id="stack-title">Our AI-Driven Stack</h2>
+          <p className="lede">What we actually build with — from the camera pipeline to the model runtime on the phone.</p>
+        </div>
+
+        <div className="bento" style={{ marginTop: 48 }}>
+          <article className="card b1 reveal" data-od-id="card-inference">
+            <h3 className="h3">On-Device Inference</h3>
+            <p className="small">Vision, text and speech models running locally — no round-trip, no queue, no metered data.</p>
+            <ul className="bullets">
+              <li>Quantised for mid-range phones</li>
+              <li>No network required</li>
+              <li>Runs in airplane mode</li>
+            </ul>
+            <div className="card-art" style={{ marginTop: "auto" }}>
+              <img src="assets/img/bento-inference.png" width={750} height={780}
+                   alt="Diagram of a model branching into storage, profile and action nodes" loading="lazy" />
+            </div>
+          </article>
+
+          <article className="card b2 reveal reveal-d1" data-od-id="card-conversation">
+            <h3 className="h3">Conversational Apps</h3>
+            <p className="small">Chat, voice and avatar interfaces that keep their context between sessions.</p>
+            <div className="card-art">
+              <img src="assets/img/bento-chat.png" width={648} height={288}
+                   alt="Two chat bubbles, one asking about pricing and one greeting the user" loading="lazy" />
+            </div>
+          </article>
+
+          <article className="card b3 reveal reveal-d2" data-od-id="card-interfaces">
+            <h3 className="h3">Mobile-First Interfaces</h3>
+            <p className="small">Native-feel UI built for one hand, one thumb and a six-inch screen.</p>
+            <div className="card-art">
+              <img src="assets/img/bento-mobile.png" width={580} height={367}
+                   alt="Profile card UI with a ranked score row" loading="lazy" />
+            </div>
+          </article>
+
+          <article className="card b2 reveal" data-od-id="card-retrieval">
+            <h3 className="h3">On-Device Retrieval</h3>
+            <p className="small">Answers grounded in your photo roll and the live web — with sources, storing nothing.</p>
+            <div className="card-art">
+              <img src="assets/img/bento-retrieval.png" width={600} height={327}
+                   alt="Concentric network arcs connecting mail, web and phone icons" loading="lazy" />
+            </div>
+          </article>
+
+          <article className="card b2 reveal reveal-d1" data-od-id="card-memory">
+            <h3 className="h3">Memory &amp; Context</h3>
+            <p className="small">Running context, retrieval and personalisation that never leave the phone.</p>
+            <div className="card-art">
+              <img src="assets/img/bento-memory.png" width={600} height={257}
+                   alt="An area chart tracking total sessions" loading="lazy" />
+            </div>
+          </article>
+
+          <article className="cta-card b2 reveal reveal-d2" data-od-id="card-cta">
+            <span className="cta-orb"><img src="assets/img/portrait-3.jpg" alt="" width={200} height={200} /></span>
+            <div>
+              <h3 className="h3">Not sure what runs on a phone?</h3>
+              <p className="small" style={{ marginTop: 8 }}>Send us the idea. In 30 minutes we will tell you what fits on-device and what still needs a server.</p>
+            </div>
+            <a className="btn btn-primary" href="#contact" data-od-id="card-cta-button"
+               onClick={(e) => useAnchors()(e, "contact")}>Book a review</a>
+          </article>
+
+          <article className="card secure reveal" data-od-id="card-security">
+            <h3 className="h3">Your Data. Stays Yours.</h3>
+            <p className="small">No account, no cloud sync, no telemetry. The app is the whole system.</p>
+            <div className="secure-tiles">
+              {SECURE.map((s) => (
+                <div className="secure-tile" key={s.id} data-od-id={"secure-" + s.id}>
+                  <span className="secure-icon">{s.icon}</span>
+                  <span>{s.label}</span>
+                </div>
+              ))}
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Process() {
+  return (
+    <section className="sec" id="process" data-od-id="process">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>004</b><i />Process</span>
+          <h2 className="h2" data-od-id="process-title">How We Work</h2>
+          <p className="lede">A five-step loop for getting a model off the server and onto a phone.</p>
+        </div>
+
+        <div className="steps">
+          <div className="steps-rail" aria-hidden="true" />
+          {STEPS.map((s, i) => {
+            const on = i === 0;
+            const left = i % 2 === 0;
+            const card = (
+              <div className={"step-card" + (left ? "" : " step-right") + (on ? " on" : "")}>
+                <span className="step-node">{STEP_ICONS[i]}</span>
+                <div style={{ textAlign: left ? "left" : "right" }}>
+                  <h3 className="h4">{s.title}</h3>
+                  <p className="small" style={{ marginTop: 4 }}>{s.text}</p>
+                </div>
+              </div>
+            );
+            return (
+              <div className="step" key={s.n} data-od-id={"step-" + s.n}>
+                {left ? card : <div className="step-empty" />}
+                <div className={"step-dot" + (on ? " on" : "")} aria-hidden="true"><i /></div>
+                {left ? <div className="step-empty" /> : card}
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Cases() {
+  const { ref, page, pages, go } = useScroller("dt.case.index");
+
+  return (
+    <section className="sec" id="work" data-od-id="cases">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>005</b><i />Case studies</span>
+          <h2 className="h2" data-od-id="cases-title">What We’ve Built</h2>
+          <p className="lede">Three products, all shipped, all three running on the device in your pocket.</p>
+        </div>
+
+        <div className="carousel" role="group" aria-roledescription="carousel" aria-label="Case studies">
+          <div className="track" ref={ref}>
+            {CASES.map((c) => (
+              <div className="slide" key={c.id} data-od-id={c.id}>
+                <article className="case">
+                  <div className="case-visual">
+                    <img src={c.art} width={762} height={720} alt={c.alt} loading="lazy" />
+                    <span className="case-brand"><span className="mark"><IcoSpark size={13} /></span>{c.brand}</span>
+                  </div>
+                  <div className="case-body">
+                    <h3 className="h2" style={{ fontSize: "clamp(26px, 2.9vw, 42px)" }}>{c.title}</h3>
+                    <p className="lede">{c.body}</p>
+                    <div className="case-metrics">
+                      {c.metrics.map((m) => (
+                        <div className="case-metric" key={m[1]}><b>{m[0]}</b><span>{m[1]}</span></div>
+                      ))}
+                    </div>
+                  </div>
+                </article>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="case-foot">
+          <div className="dots" role="tablist" aria-label="Choose a case study">
+            {CASES.map((c, i) => (
+              <button key={c.id} role="tab" aria-selected={i === page} aria-label={c.brand}
+                      className={i === page ? "on" : ""} onClick={() => go(i - page)} />
+            ))}
+          </div>
+          <div className="carousel-nav">
+            <button className="icon-btn" onClick={() => go(-1)} disabled={page === 0} aria-label="Previous case study" data-od-id="case-prev"><IcoArrowL size={17} /></button>
+            <button className="icon-btn" onClick={() => go(1)} disabled={page >= pages - 1} aria-label="Next case study" data-od-id="case-next"><IcoArrowR size={17} /></button>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Tech() {
+  return (
+    <section className="sec-tight" data-od-id="tech">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>006</b><i />Stack</span>
+          <h2 className="h2" data-od-id="tech-title">Runs On The Device</h2>
+          <p className="lede">Our apps connect the camera, the model and the interface into one system that grows with the phone you already own.</p>
+        </div>
+
+        <div className="stack-grid">
+          <div className="chips">
+            {TECH.slice(0, 6).map((t) => (
+              <span className="chip" key={t.id} data-od-id={t.id}><i>{t.icon}</i>{t.label}</span>
+            ))}
+          </div>
+          <a className="chip-hub" href="#download" data-od-id="tech-hub"
+             onClick={(e) => useAnchors()(e, "download")}>
+            <span style={{ display: "grid", gap: 6, placeItems: "center" }}>
+              <IcoSpark size={20} /> Try our apps
+            </span>
+          </a>
+          <div className="chips">
+            {TECH.slice(6).map((t) => (
+              <span className="chip" key={t.id} data-od-id={t.id}><i>{t.icon}</i>{t.label}</span>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function InsideApps() {
+  return (
+    <section className="sec" data-od-id="inside">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>007</b><i />Inside</span>
+          <h2 className="h2" data-od-id="inside-title">Inside the Apps</h2>
+          <p className="lede">The parts you notice on day one — and the parts you keep relying on in month six.</p>
+        </div>
+
+        <div className="masonry">
+          <div className="mcol">
+            <article className="m-card m-photo reveal" data-od-id="inside-batik">
+              <img src="assets/img/batik-display.jpg" width={900} height={1258}
+                   alt="Hand-drawn batik cloth displayed on a hanger with a Mega Mendung pattern" loading="lazy" />
+              <div className="m-photo-body">
+                <span className="m-badge"><IcoGrid size={14} /> CoBatik · Android</span>
+                <h3 className="h3">Kenakan arsipnya.</h3>
+                <p className="small">A real archive of hand-drawn cloth from Cirebon, Yogyakarta, Pekalongan and Lasem.</p>
+              </div>
+            </article>
+
+            <article className="m-card m-quote reveal" data-od-id="inside-vision">
+              <span className="qmark"><IcoEye size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[0].tag}</span>
+              <p>{QUOTES[0].text}</p>
+              <div className="m-who"><b>{QUOTES[0].brand}</b><span>Vision + language, on device</span></div>
+            </article>
+
+            <article className="m-card m-quote reveal" data-od-id="inside-avatar">
+              <span className="qmark"><IcoHand size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[4].tag}</span>
+              <p>{QUOTES[4].text}</p>
+              <div className="m-who"><b>{QUOTES[4].brand}</b><span>Avatar, voice and chat</span></div>
+            </article>
+          </div>
+
+          <div className="mcol">
+            <article className="m-card m-quote reveal reveal-d1" data-od-id="inside-memory">
+              <span className="qmark"><IcoBrain size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[1].tag}</span>
+              <p>{QUOTES[1].text}</p>
+              <div className="m-head">
+                <span className="m-avatar"><img src="assets/img/memechat-mascot.png" alt="" width={361} height={340} /></span>
+                <div className="m-who" style={{ marginTop: 0 }}><b>{QUOTES[1].brand}</b><span>Private memory, on device</span></div>
+              </div>
+            </article>
+
+            <article className="m-card m-quote reveal reveal-d2" data-od-id="inside-offline">
+              <span className="qmark"><IcoCloudOff size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[2].tag}</span>
+              <p>{QUOTES[2].text}</p>
+              <div className="m-head">
+                <span className="m-avatar"><img src="assets/img/memechat-mascot.png" alt="" width={361} height={340} /></span>
+                <div className="m-who" style={{ marginTop: 0 }}><b>{QUOTES[2].brand}</b><span>Airplane-mode ready</span></div>
+              </div>
+            </article>
+
+            <article className="m-card m-quote reveal reveal-d3" data-od-id="inside-platforms">
+              <span className="qmark"><IcoGlobe size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[5].tag}</span>
+              <p>{QUOTES[5].text}</p>
+              <div className="m-who"><b>{QUOTES[5].brand}</b><span>Five platforms, one companion</span></div>
+            </article>
+          </div>
+
+          <div className="mcol">
+            <article className="m-card m-photo m-phone reveal reveal-d1" data-od-id="inside-memechat">
+              <img src="assets/img/app-memechat-home.webp" width={695} height={1568}
+                   alt="MemeChat AI home screen showing the assistant greeting the user" loading="lazy" />
+              <div className="m-photo-body">
+                <span className="m-badge"><IcoChat size={14} /> MemeChat AI · Android</span>
+                <h3 className="h3">Meme Smarter, Not Harder</h3>
+                <p className="small">Ask, roast, caption, translate — a vision-language model that runs entirely on your phone.</p>
+              </div>
+            </article>
+
+            <article className="m-card m-quote reveal reveal-d2" data-od-id="inside-sources">
+              <span className="qmark"><IcoRoute size={22} /></span>
+              <span className="tiny" style={{ letterSpacing: "0.14em", textTransform: "uppercase" }}>{QUOTES[3].tag}</span>
+              <p>{QUOTES[3].text}</p>
+              <div className="m-head">
+                <span className="m-avatar"><img src="assets/img/app-zeta-portrait.jpg" alt="" width={188} height={338} /></span>
+                <div className="m-who" style={{ marginTop: 0 }}><b>ZetaAI</b><span>Retrieval, sourced and stored nowhere</span></div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function GetApps() {
+  return (
+    <section className="sec" id="download" data-od-id="download">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>008</b><i />Download</span>
+          <h2 className="h2" data-od-id="download-title">Get the Apps</h2>
+          <p className="lede">Free to download. No account, no subscription, no ads.</p>
+        </div>
+
+        <div className="plans">
+          {APPS.map((a, i) => (
+            <article className={"plan" + (a.featured ? " plan-featured" : "") + " reveal reveal-d" + i}
+                     key={a.id} data-od-id={"plan-" + a.id}>
+              <div className="plan-head">
+                <div className="plan-app">
+                  <img src={a.icon} alt={a.name + " app icon"} width={54} height={54} />
+                  <div>
+                    <h3 className="h4">{a.name}</h3>
+                    <p className="tiny" style={{ marginTop: 2 }}>{a.tagline}</p>
+                  </div>
+                </div>
+                {a.featured ? <span className="tag">Most popular</span> : null}
+              </div>
+
+              <div className="price">{a.price} <small>to download</small></div>
+
+              <div className="spec">
+                {a.spec.map((s) => <span key={s}>{s}</span>)}
+              </div>
+
+              <div className="plan-sep" />
+
+              <div>
+                <p className="small" style={{ color: "var(--ink)", marginBottom: 10 }}>What you get:</p>
+                <ul className="bullets">
+                  {a.features.map((f) => <li key={f}>{f}</li>)}
+                </ul>
+              </div>
+
+              <a className={"btn btn-block " + (a.featured ? "btn-primary" : "btn-light")}
+                 href={a.url} target="_blank" rel="noopener noreferrer" data-od-id={"plan-cta-" + a.id}>
+                {a.cta} <IcoArrowR size={16} />
+              </a>
+            </article>
+          ))}
+        </div>
+
+        <div className="cta-card reveal" style={{ marginTop: 20, flexDirection: "row", alignItems: "center", flexWrap: "wrap", gap: 24 }}
+             data-od-id="download-cta">
+          <span className="cta-orb"><img src="assets/img/app-zeta-avatar.jpg" alt="" width={452} height={300} /></span>
+          <div style={{ flex: "1 1 260px" }}>
+            <h3 className="h3">Not sure which app to open first?</h3>
+            <p className="small" style={{ marginTop: 8 }}>Book a 30-minute call and we will point you at the right one — or tell you honestly that you need none of them.</p>
+          </div>
+          <a className="btn btn-primary" href="#contact" data-od-id="download-cta-button"
+             onClick={(e) => useAnchors()(e, "contact")}>Book a call <IcoArrowR size={16} /></a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Beliefs() {
+  const { ref, page, pages, go } = useScroller("dt.belief.index");
+  const pct = ((page + 1) / pages) * 100;
+
+  return (
+    <section className="sec" data-od-id="beliefs">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>009</b><i />Studio</span>
+          <h2 className="h2" data-od-id="beliefs-title">What We Believe</h2>
+          <p className="lede">Four rules that decide what we build, what we drop, and what we refuse to ship.</p>
+        </div>
+
+        <div className="principles" role="group" aria-roledescription="carousel" aria-label="Studio principles">
+          <div className="p-track" ref={ref}>
+            {PRINCIPLES.map((p) => (
+              <article className="p-card" key={p.id} data-od-id={p.id}>
+                <span className="n">{p.n}</span>
+                <span className="p-ring" aria-hidden="true" />
+                <div>
+                  <h3 className="h3">{p.title}</h3>
+                  <p className="small" style={{ marginTop: 8 }}>{p.text}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+
+        <div className="p-foot">
+          <div className="p-bar" aria-hidden="true"><i style={{ width: pct + "%" }} /></div>
+          <span className="tiny">{String(page + 1).padStart(2, "0")} / {String(pages).padStart(2, "0")}</span>
+          <div className="carousel-nav">
+            <button className="icon-btn" onClick={() => go(-1)} disabled={page === 0} aria-label="Previous principle" data-od-id="belief-prev"><IcoArrowL size={17} /></button>
+            <button className="icon-btn" onClick={() => go(1)} disabled={page >= pages - 1} aria-label="Next principle" data-od-id="belief-next"><IcoArrowR size={17} /></button>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Faq() {
+  const [open, setOpen] = React.useState<number>(0);
+  const goto = useAnchors();
+
+  return (
+    <section className="sec" id="faq" data-od-id="faq">
+      <div className="wrap">
+        <div className="sec-head reveal">
+          <span className="sec-badge"><b>010</b><i />FAQs</span>
+          <h2 className="h2" data-od-id="faq-title">Common Questions</h2>
+        </div>
+
+        <div className="faq-list">
+          {FAQS.map((f, i) => {
+            const isOpen = open === i;
+            return (
+              <div className={"faq-item" + (isOpen ? " open" : "")} key={f.q} data-od-id={"faq-" + (i + 1)}>
+                <button className="faq-q" aria-expanded={isOpen} onClick={() => setOpen(isOpen ? -1 : i)}>
+                  <span className="faq-n">{i + 1}</span>
+                  <span className="h4">{f.q}</span>
+                  <span className="faq-sign"><IcoPlus size={16} /></span>
+                </button>
+                <div className="faq-a"><div><p>{f.a}</p></div></div>
+              </div>
+            );
+          })}
+        </div>
+
+        <div className="faq-more reveal">
+          <p className="small">Have any other questions?</p>
+          <a className="btn btn-quiet" href="#contact" data-od-id="faq-contact" onClick={(e) => goto(e, "contact")}>
+            Contact us <IcoArrowR size={16} />
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Contact() {
+  const [values, setValues] = React.useState({ name: "", email: "", company: "", brief: "" });
+  const [errors, setErrors] = React.useState<Record<string, string>>({});
+  const [sent, setSent] = React.useState(false);
+
+  const set = (k: string) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) =>
+    setValues((v) => ({ ...v, [k]: e.target.value }));
+
+  const submit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const next: Record<string, string> = {};
+    if (!values.name.trim()) next.name = "Please add your name.";
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(values.email.trim())) next.email = "Please add a valid email address.";
+    if (values.brief.trim().length < 12) next.brief = "Tell us a little more — a sentence is enough.";
+    setErrors(next);
+    if (Object.keys(next).length === 0) setSent(true);
+  };
+
+  return (
+    <section className="sec contact-sec" id="contact" data-od-id="contact">
+      <div className="contact-veil" aria-hidden="true" />
+      <div className="wrap" style={{ position: "relative" }}>
+        <div className="contact-card reveal">
+          <span className="contact-orb"><IcoSpark size={26} /></span>
+          <div>
+            <h2 className="h2" style={{ fontSize: "clamp(28px, 3.4vw, 44px)" }} data-od-id="contact-title">
+              Your next app should<br />run on the phone.
+            </h2>
+            <p className="small" style={{ marginTop: 14, maxWidth: 420, marginLeft: "auto", marginRight: "auto" }}>
+              Tell us what the model needs to do. We will tell you what fits on a device.
+            </p>
+          </div>
+
+          {sent ? (
+            <div className="form-ok" role="status" data-od-id="contact-success">
+              <IcoCheck size={22} />
+              <h3 className="h4">That is in.</h3>
+              <p className="small" style={{ margin: 0 }}>Thanks {values.name.split(" ")[0] || "there"} — we will reply from the studio within two working days.</p>
+            </div>
+          ) : (
+            <form className="form" onSubmit={submit} noValidate>
+              <div className="field">
+                <label className="sr" htmlFor="f-name">Your name</label>
+                <input id="f-name" placeholder="Your name*" value={values.name} onChange={set("name")}
+                       aria-invalid={!!errors.name} data-od-id="field-name" />
+                {errors.name ? <span className="field-err">{errors.name}</span> : null}
+              </div>
+              <div className="field">
+                <label className="sr" htmlFor="f-email">Your email</label>
+                <input id="f-email" type="email" placeholder="Your email*" value={values.email} onChange={set("email")}
+                       aria-invalid={!!errors.email} data-od-id="field-email" />
+                {errors.email ? <span className="field-err">{errors.email}</span> : null}
+              </div>
+              <div className="field">
+                <label className="sr" htmlFor="f-company">Company</label>
+                <input id="f-company" placeholder="Company" value={values.company} onChange={set("company")} data-od-id="field-company" />
+              </div>
+              <div className="field">
+                <label className="sr" htmlFor="f-brief">What should the app do?</label>
+                <textarea id="f-brief" placeholder="What should the app do?*" value={values.brief} onChange={set("brief")}
+                          aria-invalid={!!errors.brief} data-od-id="field-brief" />
+                {errors.brief ? <span className="field-err">{errors.brief}</span> : null}
+              </div>
+              <button className="btn btn-primary" type="submit" data-od-id="contact-submit">
+                Send your request <IcoArrowR size={16} />
+              </button>
+              <p className="form-note">We read every message ourselves. No sales sequence, no drip campaign.</p>
+            </form>
+          )}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function Footer() {
+  const goto = useAnchors();
+  const cols = [
+    { label: "MemeChat AI", href: "https://memechat.dream-team.works" },
+    { label: "Zeta AI Assistant", href: "https://zeta.dream-team.works" },
+    { label: "CoBatik", href: "https://cobatik.dream-team.works" }
+  ];
+
+  return (
+    <footer className="footer" data-od-id="footer">
+      <div className="footer-veil" aria-hidden="true" />
+      <div className="wrap footer-inner">
+        <div className="footer-top">
+          {cols.map((c) => (
+            <a className="social" key={c.label} href={c.href} target="_blank" rel="noopener noreferrer" data-od-id={"footer-" + c.label.replace(/\s+/g, "-").toLowerCase()}>
+              <i><IcoSpark size={16} /></i>
+              <span style={{ flex: 1 }}>{c.label}</span>
+              <IcoArrowR size={16} />
+            </a>
+          ))}
+          <a className="social" href="https://dream-team.works" target="_blank" rel="noopener noreferrer" data-od-id="footer-studio">
+            <i><IcoGlobe size={16} /></i>
+            <span style={{ flex: 1 }}>dream-team.works</span>
+            <IcoArrowR size={16} />
+          </a>
+        </div>
+
+        <div className="footer-links">
+          {[["studio", "Studio"], ["apps", "Capabilities"], ["work", "Work"], ["process", "Process"], ["download", "Download"], ["faq", "FAQ"], ["contact", "Contact"]].map(([id, label]) => (
+            <a key={id} href={"#" + id} onClick={(e) => goto(e, id)}>{label}</a>
+          ))}
+        </div>
+
+        <div className="wordmark" aria-hidden="true">Dream Team</div>
+
+        <div className="footer-bottom">
+          <span className="small">© Dream Team 2026</span>
+          <a className="small" href="#home" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); }}>Back to top</a>
+        </div>
+      </div>
+    </footer>
+  );
+}
+
+function App() {
+  useRevealOnScroll();
+  return (
+    <React.Fragment>
+      <Nav />
+      <main>
+        <Hero />
+        <Studio />
+        <StatsBand />
+        <Values />
+        <Stack />
+        <Process />
+        <Cases />
+        <Tech />
+        <InsideApps />
+        <GetApps />
+        <Beliefs />
+        <Faq />
+        <Contact />
+      </main>
+      <Footer />
+    </React.Fragment>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(<App />);
+</script>
+</body>
+</html>

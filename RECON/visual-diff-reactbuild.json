@@ -1,0 +1,17 @@
+{
+  "390": {
+    "diffPixelRatio": 0.007747927516474506,
+    "visualScore": 5,
+    "pageHeight": 17887
+  },
+  "768": {
+    "diffPixelRatio": 0.012126000993826807,
+    "visualScore": 4.5,
+    "pageHeight": 17441
+  },
+  "1440": {
+    "diffPixelRatio": 0.013563085861789477,
+    "visualScore": 4.5,
+    "pageHeight": 12612
+  }
+}

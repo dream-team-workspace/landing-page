@@ -1,0 +1,34 @@
+{
+  "capturedAt": "2026-10-12",
+  "scope": "verification-artifact copy completeness + project asset completeness",
+  "result": { "checks": 373, "failed": 0 },
+  "sections": {
+    "verificationArtifactsCopied": {
+      "count": 56,
+      "note": "every /tmp/opencode artifact copied into RECON/ + scripts/ byte-for-byte (sha256-verified); excluded by design: vite-probe/node_modules/**, *.pid"
+    },
+    "siteAssetReferences": 20,
+    "cssUrlTargets": 60,
+    "harvestManifestPaths": {
+      "asset-manifest.json": 135,
+      "memechat-manifest.json": 10,
+      "zeta-manifest.json": 9,
+      "cobatik-manifest.json": 22,
+      "total": 176
+    },
+    "distRuntimeCopies": { "img": 23, "media": 2 },
+    "distEntryAndCssReferences": 59
+  },
+  "restoredHarvestOriginals": {
+    "count": 42,
+    "source": "live product sites; names are sha1(url)-derived, so restored files land exactly where the manifests record them",
+    "fidelity": "41 of 42 byte-identical to the recorded harvest size",
+    "exceptions": [
+      "assets/css/fonts.googleapis.com/css2-2f3c5f8b07.bin — live response is 879 bytes vs 222 recorded (Google Fonts serves a different variant now; same URL, valid content)"
+    ]
+  },
+  "reRun": {
+    "assetCompleteness": "node scripts/check-assets.mjs [--restore]",
+    "odPreviewSimulation": "node scripts/od-preview-sim.mjs <project-dir> [port]"
+  }
+}

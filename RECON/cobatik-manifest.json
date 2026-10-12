@@ -1,0 +1,193 @@
+{
+  "url": "https://cobatik.dream-team.works",
+  "capturedVia": "browser-network+recon",
+  "total": 23,
+  "ok": 22,
+  "error": 1,
+  "fontsCss": null,
+  "assets": [
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 42,
+      "localPath": "images/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7-1c4fb4a004.bin"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/maestro-batik-tulis-di-imogiri.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 496875,
+      "localPath": "images/cobatik.dream-team.works/maestro-batik-tulis-di-imogiri-7c471b4913.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/video/batik-vton-loop-poster.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 47877,
+      "localPath": "images/cobatik.dream-team.works/batik-vton-loop-poster-2d287aa477.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/css/styles.css",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 24662,
+      "localPath": "css/cobatik.dream-team.works/styles-0dc81ee9f0.css"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/app-screen.png",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1686933,
+      "localPath": "images/cobatik.dream-team.works/app-screen-ccd1d4d4eb.png"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/fonts/fonts.css",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 2959,
+      "localPath": "css/cobatik.dream-team.works/fonts-473c41dd32.css"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/video/batik-vton-loop.mp4",
+      "kind": "media",
+      "via": "network",
+      "status": "error",
+      "error": "download timed out after 10000ms"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/fonts/instrument-sans-normal-400-700-3.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 30092,
+      "localPath": "fonts/cobatik.dream-team.works/instrument-sans-normal-400-700-3-288205ea99.woff2"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/fonts/instrument-serif-italic-400-5.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 22128,
+      "localPath": "fonts/cobatik.dream-team.works/instrument-serif-italic-400-5-21906e964d.woff2"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/fonts/instrument-serif-normal-400-7.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 21032,
+      "localPath": "fonts/cobatik.dream-team.works/instrument-serif-normal-400-7-fbb12b5063.woff2"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/fonts/instrument-sans-italic-400-700-1.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 31828,
+      "localPath": "fonts/cobatik.dream-team.works/instrument-sans-italic-400-700-1-37305c158c.woff2"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/favicon.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 296,
+      "localPath": "images/cobatik.dream-team.works/favicon-6eece06c97.svg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-madura-dengan-motif-kawung.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1899265,
+      "localPath": "images/cobatik.dream-team.works/batik-madura-dengan-motif-kawung-b07eaa9528.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-mega-mendung.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1308718,
+      "localPath": "images/cobatik.dream-team.works/batik-mega-mendung-565e0d9292.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-pedalaman-parang-klithik.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 673559,
+      "localPath": "images/cobatik.dream-team.works/batik-pedalaman-parang-klithik-55a7264f92.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/kain-batik-lasem-motif-parang-dewa-ruci.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 941805,
+      "localPath": "images/cobatik.dream-team.works/kain-batik-lasem-motif-parang-dewa-ruci-1035906fdf.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-pattern-kawung.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1592229,
+      "localPath": "images/cobatik.dream-team.works/batik-pattern-kawung-4ac2a9ec0b.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/kain-motif-lerek-kawung-latohan-melati-batik-tiga-negeri.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 718262,
+      "localPath": "images/cobatik.dream-team.works/kain-motif-lerek-kawung-latohan-melati-batik-tiga-negeri-4e4b744ebd.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-trusmi-cirebon-16-.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 797959,
+      "localPath": "images/cobatik.dream-team.works/batik-trusmi-cirebon-16--8e203c272e.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/batik-artisan-drawing-wax-with-canting-in-trusmi-cirebon-indonesia.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1180184,
+      "localPath": "images/cobatik.dream-team.works/batik-artisan-drawing-wax-with-canting-in-trusmi-cirebon-indonesia-a1e27f01e5.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/women-making-batik-ketelan-crop.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1487775,
+      "localPath": "images/cobatik.dream-team.works/women-making-batik-ketelan-crop-3f7082a3f6.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/indonesian-batik-display.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 3156094,
+      "localPath": "images/cobatik.dream-team.works/indonesian-batik-display-56098719e7.jpg"
+    },
+    {
+      "url": "https://cobatik.dream-team.works/assets/images/intergenerational-batik-tulis-practice-in-trusmi-cirebon-elder-artisan-applying-wax-with-canting.jpg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 485096,
+      "localPath": "images/cobatik.dream-team.works/intergenerational-batik-tulis-practice-in-trusmi-cirebon-elder-artisan-applying--b916191f3f.jpg"
+    }
+  ]
+}

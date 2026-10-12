@@ -1,0 +1,356 @@
+{
+  "label": "original",
+  "url": "https://conicorn.framer.ai",
+  "capturedAt": "2026-10-12T15:24:12.069Z",
+  "maxPages": 15,
+  "maxDepth": 2,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "https://conicorn.framer.ai",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [
+        "Intelligent Automation for Modern Teams"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Intelligent Automation for Modern Teams"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Us?"
+        },
+        {
+          "tag": "h2",
+          "text": "Our AI-Driven Services"
+        },
+        {
+          "tag": "h2",
+          "text": "How We Work"
+        },
+        {
+          "tag": "h2",
+          "text": "What We’ve Built"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Property Inquiry Chatbot for Real Estate Firms"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Project Management Automation for Creative Teams"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Workflow Automation for Finance SaaS Company"
+        },
+        {
+          "tag": "h2",
+          "text": "Technology Ecosystem"
+        },
+        {
+          "tag": "h2",
+          "text": "What They’re Saying"
+        },
+        {
+          "tag": "h2",
+          "text": "Built for Growth at Every Stage"
+        },
+        {
+          "tag": "h2",
+          "text": "Meet the Conicorn’s Minds"
+        },
+        {
+          "tag": "h2",
+          "text": "Common Questions"
+        }
+      ],
+      "counts": {
+        "links": 48,
+        "images": 178,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 48,
+      "screenshot": "screenshots/conicorn.framer.ai-658b6655.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/contact",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [
+        "Let’s Automate Your Growth"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Let’s Automate Your Growth"
+        }
+      ],
+      "counts": {
+        "links": 14,
+        "images": 11,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 14,
+      "screenshot": "screenshots/conicorn.framer.ai-contact-0cdd1cd5.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/case-studies/ai-property-inquiry-chatbot-for-real-estate-firms",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "AI Property Inquiry Chatbot for Real Estate Firms - Conicorn",
+      "lang": "en",
+      "metaDescription": "An intelligent chatbot that qualifies property inquiries, answers buyer questions, and schedules viewings.",
+      "h1": [
+        "AI Property Inquiry Chatbot for Real Estate Firms"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "AI Property Inquiry Chatbot for Real Estate Firms"
+        }
+      ],
+      "counts": {
+        "links": 13,
+        "images": 17,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 13,
+      "screenshot": "screenshots/conicorn.framer.ai-case-studies-ai-property-inquiry-chatbot-for-real-estate-firms-f99659c5.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/case-studies/ai-project-management-automation-for-creative-teams",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "AI Project Management Automation for Creative Teams - Conicorn",
+      "lang": "en",
+      "metaDescription": "Streamlining project coordination and task assignments for faster delivery and smoother collaboration.",
+      "h1": [
+        "AI Project Management Automation for Creative Teams"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "AI Project Management Automation for Creative Teams"
+        }
+      ],
+      "counts": {
+        "links": 13,
+        "images": 17,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 13,
+      "screenshot": "screenshots/conicorn.framer.ai-case-studies-ai-project-management-automation-for-creative-teams-49f30f22.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/case-studies/ai-workflow-automation-for-finance-saas-company",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "AI Workflow Automation for Finance SaaS Company - Conicorn",
+      "lang": "en",
+      "metaDescription": "We analyze real estate workflows, identify operational bottlenecks, and uncover revenue opportunities.",
+      "h1": [
+        "AI Workflow Automation for Finance SaaS Company"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "AI Workflow Automation for Finance SaaS Company"
+        }
+      ],
+      "counts": {
+        "links": 13,
+        "images": 17,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 13,
+      "screenshot": "screenshots/conicorn.framer.ai-case-studies-ai-workflow-automation-for-finance-saas-company-f5cc0ed5.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/case-studies",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [
+        "Case Studies"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Case Studies"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Property Inquiry Chatbot for Real Estate Firms"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Project Management Automation for Creative Teams"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Workflow Automation for Finance SaaS Company"
+        }
+      ],
+      "counts": {
+        "links": 16,
+        "images": 17,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 16,
+      "screenshot": "screenshots/conicorn.framer.ai-case-studies-9f78960c.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/404",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 404,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [],
+      "headings": [],
+      "counts": {
+        "links": 14,
+        "images": 10,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 0
+      },
+      "linkCount": 14,
+      "screenshot": "screenshots/conicorn.framer.ai-404-85670cac.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/terms-of-service",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [
+        "Terms of Service"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "h3",
+          "text": "1. About Conicorn"
+        },
+        {
+          "tag": "h3",
+          "text": "2. Use of Our Website"
+        },
+        {
+          "tag": "h3",
+          "text": "3. Services and Client Engagement"
+        },
+        {
+          "tag": "h3",
+          "text": "4. Intellectual Property"
+        },
+        {
+          "tag": "h3",
+          "text": "5. Contact Information"
+        }
+      ],
+      "counts": {
+        "links": 13,
+        "images": 11,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 13,
+      "screenshot": "screenshots/conicorn.framer.ai-terms-of-service-875b52c9.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://conicorn.framer.ai/privacy-policy",
+      "from": "https://conicorn.framer.ai",
+      "depth": 1,
+      "status": 200,
+      "title": "Conicorn - AI Automation Agency SaaS Template",
+      "lang": "en",
+      "metaDescription": "Conicorns is a modern Framer template designed for startups to build beautiful websites, manage workflows, and grow their business.",
+      "h1": [
+        "Privacy Policy"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "h3",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "h3",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "h3",
+          "text": "3. AI and Client Data"
+        },
+        {
+          "tag": "h3",
+          "text": "4. Data Security"
+        },
+        {
+          "tag": "h3",
+          "text": "5. Contact Information"
+        }
+      ],
+      "counts": {
+        "links": 13,
+        "images": 11,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 13,
+      "screenshot": "screenshots/conicorn.framer.ai-privacy-policy-f083b9df.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}

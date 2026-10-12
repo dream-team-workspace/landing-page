@@ -1,0 +1,4211 @@
+{
+  "label": "dreamteam",
+  "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+  "capturedAt": "2026-10-12T17:00:05.719Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+      "readyState": "complete"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots/dreamteam-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "lang": "en",
+        "bodyTextChars": 2753,
+        "scrollHeight": 5941,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "Intelligent in your hand"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Intelligent in your hand"
+          },
+          {
+            "tag": "h2",
+            "text": "Everything runs on the device"
+          },
+          {
+            "tag": "h3",
+            "text": "Meme Smarter, Not Harder"
+          },
+          {
+            "tag": "h3",
+            "text": "Your offline companion"
+          },
+          {
+            "tag": "h3",
+            "text": "Kenakan arsipnya."
+          },
+          {
+            "tag": "h2",
+            "text": "One studio, every screen"
+          },
+          {
+            "tag": "h2",
+            "text": "How we build"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h2",
+            "text": "Inside the apps"
+          },
+          {
+            "tag": "h2",
+            "text": "Start with any of them."
+          }
+        ],
+        "metaDescription": "We build mobile-specific, AI-powered applications that run on your device. MemeChat AI, Zeta AI Assistant and CoBatik — private, fast and always with you.",
+        "counts": {
+          "links": 20,
+          "images": 17,
+          "video": 0,
+          "canvas": 0,
+          "sections": 23,
+          "forms": 0,
+          "buttons": 6,
+          "inputs": 0,
+          "interactive": 26,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-BtsnIRET.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "",
+            "className": "nav",
+            "text": "Dream TeamAppsPlatformsStudioInsideGet the apps",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1425,
+              "height": 65
+            },
+            "style": {
+              "display": "block",
+              "position": "sticky",
+              "backgroundColor": "rgba(255, 255, 255, 0.92)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav-links",
+            "text": "AppsPlatformsStudioInside",
+            "rect": {
+              "x": 566,
+              "y": 21,
+              "width": 263,
+              "height": 23
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping todayEverything runs on the deviceVision, text and speech models runn",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 1425,
+              "height": 5722
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "top",
+            "className": "hero",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping today",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 1425,
+              "height": 934
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "apps",
+            "className": "sec",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.Your",
+            "rect": {
+              "x": 0,
+              "y": 999,
+              "width": 1425,
+              "height": 1860
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-hero reveal in",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.",
+            "rect": {
+              "x": 128,
+              "y": 1071,
+              "width": 1170,
+              "height": 614
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal in",
+            "text": "Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.",
+            "rect": {
+              "x": 128,
+              "y": 1701,
+              "width": 577,
+              "height": 586
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal reveal-d1 in",
+            "text": "Your offline companionChat, voice and an interactive avatar that keep working when the network does not.",
+            "rect": {
+              "x": 721,
+              "y": 1701,
+              "width": 577,
+              "height": 586
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-wide reveal in",
+            "text": "Kenakan arsipnya.A batik virtual try-on studio with a real archive of hand-drawn cloth from Cirebon, Yogyakarta, Pekalongan and Lasem.",
+            "rect": {
+              "x": 128,
+              "y": 2303,
+              "width": 1170,
+              "height": 485
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "platforms",
+            "className": "sec",
+            "text": "One studio, every screenOur apps run where you already are — Android and iOS first, with Zeta AI Assistant also on macOS, Windows and Linux.AndroidiOSmacOSWindowsLinuxOn-device",
+            "rect": {
+              "x": 0,
+              "y": 2859,
+              "width": 1425,
+              "height": 744
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "studio",
+            "className": "sec",
+            "text": "How we buildFour rules that decide what we ship — and what we leave out.01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.02Offline-firstLocal-friendlySoftware that respects where you are",
+            "rect": {
+              "x": 0,
+              "y": 3604,
+              "width": 1425,
+              "height": 771
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": -322,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 74,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 470,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 866,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": 1262,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 1658,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 2054,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 2450,
+              "y": 3828,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "inside",
+            "className": "sec",
+            "text": "Inside the appsThe parts you notice on day one — and the parts you keep relying on in month six.Get the apps MemeChat AI@memechatPoint the camera at any meme and get the joke, the context and the right reply — analysed on-device in seconds.",
+            "rect": {
+              "x": 0,
+              "y": 4374,
+              "width": 1425,
+              "height": 539
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "sec",
+            "text": "Start with any of them.All three apps are free to download — no account, no ads, and the model runs on your phone.MemeChat AI Zeta AI Assistant CoBatik Free · No account · Android & iOS",
+            "rect": {
+              "x": 0,
+              "y": 4913,
+              "width": 1425,
+              "height": 874
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "Dream TeamMemeChat AIZeta AI AssistantCoBatikdream-team.works",
+            "rect": {
+              "x": 0,
+              "y": 5859,
+              "width": 1425,
+              "height": 82
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "footer-links",
+            "text": "MemeChat AIZeta AI AssistantCoBatik",
+            "rect": {
+              "x": 534,
+              "y": 5890,
+              "width": 316,
+              "height": 23
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgba(255, 255, 255, 0.92)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(232, 232, 233)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Apps",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Platforms",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Studio",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Inside",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "MemeChat AI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Zeta AI Assistant",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "CoBatik",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "smooth",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 1,
+          "stickyOrFixedCount": 2
+        },
+        "fonts": [
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp"
+          ],
+          "fonts": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "Zeta AI Assistant avatar",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik virtual try-on screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik app screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots/dreamteam-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "lang": "en",
+        "bodyTextChars": 2711,
+        "scrollHeight": 7970,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "Intelligent in your hand"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Intelligent in your hand"
+          },
+          {
+            "tag": "h2",
+            "text": "Everything runs on the device"
+          },
+          {
+            "tag": "h3",
+            "text": "Meme Smarter, Not Harder"
+          },
+          {
+            "tag": "h3",
+            "text": "Your offline companion"
+          },
+          {
+            "tag": "h3",
+            "text": "Kenakan arsipnya."
+          },
+          {
+            "tag": "h2",
+            "text": "One studio, every screen"
+          },
+          {
+            "tag": "h2",
+            "text": "How we build"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h2",
+            "text": "Inside the apps"
+          },
+          {
+            "tag": "h2",
+            "text": "Start with any of them."
+          }
+        ],
+        "metaDescription": "We build mobile-specific, AI-powered applications that run on your device. MemeChat AI, Zeta AI Assistant and CoBatik — private, fast and always with you.",
+        "counts": {
+          "links": 20,
+          "images": 17,
+          "video": 0,
+          "canvas": 0,
+          "sections": 23,
+          "forms": 0,
+          "buttons": 6,
+          "inputs": 0,
+          "interactive": 26,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-BtsnIRET.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "",
+            "className": "nav",
+            "text": "Dream TeamAppsPlatformsStudioInsideGet the apps",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 753,
+              "height": 65
+            },
+            "style": {
+              "display": "block",
+              "position": "sticky",
+              "backgroundColor": "rgba(255, 255, 255, 0.92)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav-links",
+            "text": "AppsPlatformsStudioInside",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping todayEverything runs on the deviceVision, text and speech models runn",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 753,
+              "height": 7714
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "top",
+            "className": "hero",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping today",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 753,
+              "height": 1130
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "apps",
+            "className": "sec",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.Your",
+            "rect": {
+              "x": 0,
+              "y": 1195,
+              "width": 753,
+              "height": 2435
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-hero reveal in",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.",
+            "rect": {
+              "x": 23,
+              "y": 1235,
+              "width": 707,
+              "height": 574
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal in",
+            "text": "Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.",
+            "rect": {
+              "x": 23,
+              "y": 1825,
+              "width": 707,
+              "height": 538
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal reveal-d1 in",
+            "text": "Your offline companionChat, voice and an interactive avatar that keep working when the network does not.",
+            "rect": {
+              "x": 23,
+              "y": 2378,
+              "width": 707,
+              "height": 546
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-wide reveal in",
+            "text": "Kenakan arsipnya.A batik virtual try-on studio with a real archive of hand-drawn cloth from Cirebon, Yogyakarta, Pekalongan and Lasem.",
+            "rect": {
+              "x": 23,
+              "y": 2940,
+              "width": 707,
+              "height": 650
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "platforms",
+            "className": "sec",
+            "text": "One studio, every screenOur apps run where you already are — Android and iOS first, with Zeta AI Assistant also on macOS, Windows and Linux.AndroidiOSmacOSWindowsLinuxOn-device",
+            "rect": {
+              "x": 0,
+              "y": 3631,
+              "width": 753,
+              "height": 1046
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "studio",
+            "className": "sec",
+            "text": "How we buildFour rules that decide what we ship — and what we leave out.01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.02Offline-firstLocal-friendlySoftware that respects where you are",
+            "rect": {
+              "x": 0,
+              "y": 4677,
+              "width": 753,
+              "height": 665
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": -380,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 16,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 412,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 808,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": 1204,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 1600,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 1996,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 2392,
+              "y": 4827,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "inside",
+            "className": "sec",
+            "text": "Inside the appsThe parts you notice on day one — and the parts you keep relying on in month six.Get the apps MemeChat AI@memechatPoint the camera at any meme and get the joke, the context and the right reply — analysed on-device in seconds.",
+            "rect": {
+              "x": 0,
+              "y": 5341,
+              "width": 753,
+              "height": 654
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "sec",
+            "text": "Start with any of them.All three apps are free to download — no account, no ads, and the model runs on your phone.MemeChat AI Zeta AI Assistant CoBatik Free · No account · Android & iOS",
+            "rect": {
+              "x": 0,
+              "y": 5995,
+              "width": 753,
+              "height": 1783
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "Dream TeamMemeChat AIZeta AI AssistantCoBatikdream-team.works",
+            "rect": {
+              "x": 0,
+              "y": 7819,
+              "width": 753,
+              "height": 151
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "footer-links",
+            "text": "MemeChat AIZeta AI AssistantCoBatik",
+            "rect": {
+              "x": 23,
+              "y": 7889,
+              "width": 316,
+              "height": 23
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgba(255, 255, 255, 0.92)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(232, 232, 233)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Apps",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Platforms",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Studio",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Inside",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "MemeChat AI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Zeta AI Assistant",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "CoBatik",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "smooth",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 1,
+          "stickyOrFixedCount": 2
+        },
+        "fonts": [
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp"
+          ],
+          "fonts": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "Zeta AI Assistant avatar",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik virtual try-on screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik app screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots/dreamteam-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/index.html",
+        "title": "Dream Team — Intelligent in your hand",
+        "lang": "en",
+        "bodyTextChars": 2711,
+        "scrollHeight": 7558,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "Intelligent in your hand"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Intelligent in your hand"
+          },
+          {
+            "tag": "h2",
+            "text": "Everything runs on the device"
+          },
+          {
+            "tag": "h3",
+            "text": "Meme Smarter, Not Harder"
+          },
+          {
+            "tag": "h3",
+            "text": "Your offline companion"
+          },
+          {
+            "tag": "h3",
+            "text": "Kenakan arsipnya."
+          },
+          {
+            "tag": "h2",
+            "text": "One studio, every screen"
+          },
+          {
+            "tag": "h2",
+            "text": "How we build"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h3",
+            "text": "On-device by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Local-friendly"
+          },
+          {
+            "tag": "h3",
+            "text": "Built for real phones"
+          },
+          {
+            "tag": "h3",
+            "text": "Craft over templates"
+          },
+          {
+            "tag": "h2",
+            "text": "Inside the apps"
+          },
+          {
+            "tag": "h2",
+            "text": "Start with any of them."
+          }
+        ],
+        "metaDescription": "We build mobile-specific, AI-powered applications that run on your device. MemeChat AI, Zeta AI Assistant and CoBatik — private, fast and always with you.",
+        "counts": {
+          "links": 20,
+          "images": 17,
+          "video": 0,
+          "canvas": 0,
+          "sections": 23,
+          "forms": 0,
+          "buttons": 6,
+          "inputs": 0,
+          "interactive": 26,
+          "scripts": 1,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-BtsnIRET.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+        ],
+        "sections": [
+          {
+            "tag": "header",
+            "id": "",
+            "className": "nav",
+            "text": "Dream TeamAppsPlatformsStudioInsideGet the apps",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 65
+            },
+            "style": {
+              "display": "block",
+              "position": "sticky",
+              "backgroundColor": "rgba(255, 255, 255, 0.92)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav-links",
+            "text": "AppsPlatformsStudioInside",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "main",
+            "id": "",
+            "className": "",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping todayEverything runs on the deviceVision, text and speech models runn",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 375,
+              "height": 7302
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "top",
+            "className": "hero",
+            "text": "Intelligent in your handWe build mobile-specific, AI-powered applications that run on your device — private, fast and always with you.Get the appsThree apps, all shipping today",
+            "rect": {
+              "x": 0,
+              "y": 65,
+              "width": 375,
+              "height": 1182
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "apps",
+            "className": "sec",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.Your",
+            "rect": {
+              "x": 0,
+              "y": 1247,
+              "width": 375,
+              "height": 2547
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-hero reveal in",
+            "text": "Everything runs on the deviceVision, text and speech models running locally — no round-trip, no queue, no metered data.",
+            "rect": {
+              "x": 20,
+              "y": 1287,
+              "width": 335,
+              "height": 630
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal in",
+            "text": "Meme Smarter, Not HarderAsk, roast, caption and translate — a vision-language model that runs entirely on your phone.",
+            "rect": {
+              "x": 20,
+              "y": 1933,
+              "width": 335,
+              "height": 559
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card reveal reveal-d1 in",
+            "text": "Your offline companionChat, voice and an interactive avatar that keep working when the network does not.",
+            "rect": {
+              "x": 20,
+              "y": 2508,
+              "width": 335,
+              "height": 567
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "card card-wide reveal in",
+            "text": "Kenakan arsipnya.A batik virtual try-on studio with a real archive of hand-drawn cloth from Cirebon, Yogyakarta, Pekalongan and Lasem.",
+            "rect": {
+              "x": 20,
+              "y": 3091,
+              "width": 335,
+              "height": 663
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "platforms",
+            "className": "sec",
+            "text": "One studio, every screenOur apps run where you already are — Android and iOS first, with Zeta AI Assistant also on macOS, Windows and Linux.AndroidiOSmacOSWindowsLinuxOn-device",
+            "rect": {
+              "x": 0,
+              "y": 3794,
+              "width": 375,
+              "height": 1040
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "studio",
+            "className": "sec",
+            "text": "How we buildFour rules that decide what we ship — and what we leave out.01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.02Offline-firstLocal-friendlySoftware that respects where you are",
+            "rect": {
+              "x": 0,
+              "y": 4834,
+              "width": 375,
+              "height": 689
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": -365,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 31,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 427,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 823,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "01On-deviceOn-device by defaultEvery app ships with a model on the device, not an API key in the cloud.",
+            "rect": {
+              "x": 1219,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "02Offline-firstLocal-friendlySoftware that respects where you are: cheap data, weak signal, mid-range hardware, older Android.",
+            "rect": {
+              "x": 1615,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "03Android & iOSBuilt for real phonesSmall binaries, fast cold starts, honest battery use — tuned for mid-range hardware.",
+            "rect": {
+              "x": 2011,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "update-card",
+            "text": "04One job eachCraft over templatesNo store template, no stock flow. Each app is designed around one job and shipped when it does it well.",
+            "rect": {
+              "x": 2407,
+              "y": 5008,
+              "width": 380,
+              "height": 420
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(246, 246, 246)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "inside",
+            "className": "sec",
+            "text": "Inside the appsThe parts you notice on day one — and the parts you keep relying on in month six.Get the apps MemeChat AI@memechatPoint the camera at any meme and get the joke, the context and the right reply — analysed on-device in seconds.",
+            "rect": {
+              "x": 0,
+              "y": 5522,
+              "width": 375,
+              "height": 720
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "sec",
+            "text": "Start with any of them.All three apps are free to download — no account, no ads, and the model runs on your phone.MemeChat AI Zeta AI Assistant CoBatik Free · No account · Android & iOS",
+            "rect": {
+              "x": 0,
+              "y": 6242,
+              "width": 375,
+              "height": 1126
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "Dream TeamMemeChat AIZeta AI AssistantCoBatikdream-team.works",
+            "rect": {
+              "x": 0,
+              "y": 7407,
+              "width": 375,
+              "height": 151
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "footer-links",
+            "text": "MemeChat AIZeta AI AssistantCoBatik",
+            "rect": {
+              "x": 20,
+              "y": 7477,
+              "width": 316,
+              "height": 23
+            },
+            "style": {
+              "display": "flex",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#ffffff"
+          ],
+          [
+            "--surface",
+            "#f6f6f6"
+          ],
+          [
+            "--surface-2",
+            "#efefef"
+          ],
+          [
+            "--ink",
+            "#131314"
+          ],
+          [
+            "--muted",
+            "#46474e"
+          ],
+          [
+            "--muted-2",
+            "#7a7b82"
+          ],
+          [
+            "--line",
+            "#e8e8e9"
+          ],
+          [
+            "--red",
+            "#e32020"
+          ],
+          [
+            "--serif",
+            "\"Instrument Serif\", \"Georgia\", serif"
+          ],
+          [
+            "--serif-2",
+            "\"Cormorant Garamond\", \"Georgia\", serif"
+          ],
+          [
+            "--sans",
+            "\"Inter\", -apple-system, \"Segoe UI\", sans-serif"
+          ],
+          [
+            "--r-card",
+            "24px"
+          ],
+          [
+            "--r-chip",
+            "16px"
+          ],
+          [
+            "--r-btn",
+            "8px"
+          ],
+          [
+            "--pad",
+            "clamp(20px, 3vw, 40px)"
+          ],
+          [
+            "--maxw",
+            "1250px"
+          ],
+          [
+            "--ease",
+            "cubic-bezier(.23, 1, .32, 1)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgba(255, 255, 255, 0.92)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(19, 19, 20)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(19, 19, 20)",
+            "borderColor": "rgb(232, 232, 233)",
+            "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Apps",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Platforms",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Studio",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Inside",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(19, 19, 20)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Get the apps",
+              "backgroundColor": "rgb(19, 19, 20)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "MemeChat AI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Zeta AI Assistant",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "CoBatik",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(19, 19, 20)",
+              "borderColor": "rgb(232, 232, 233)",
+              "fontFamily": "Inter, -apple-system, \"Segoe UI\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "smooth",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 1,
+          "stickyOrFixedCount": 2
+        },
+        "fonts": [
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Instrument Serif",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Cormorant Garamond",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjgn7MsNo-C9HzH3YL.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "italic",
+            "srcUrls": [
+              "./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: italic; font-weight: 400; font-display: swap; src: url(\"./jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M-DKMiL14s.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI-C2je3j2s.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Instrument Serif",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Instrument Serif\"; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-hdM8Efs-ClXnudBg.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-jNM8Efs-DVnfXoMy.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-h9M8Efs-D3igDnAQ.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-htM8Efs-CE7zdTnu.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "italic",
+            "srcUrls": [
+              "./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: italic; font-weight: 500; font-display: swap; src: url(\"./co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM8-Y14P-dkT.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnnOiss4-Yta7XZ9C.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnDOiss4-CyAY5ZLS.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnvOiss4-BZGLGj12.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnrOiss4-CH1kM7og.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+            ],
+            "cssText": "@font-face { font-family: \"Cormorant Garamond\"; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-BOeWTOD4.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-DqGufNeO.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-DlzME5K_.woff2\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-CkhJZR-_.woff2\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-CBcvBZtf.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-DO1Apj_S.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"./UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/index-DX-n4X3b.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp"
+          ],
+          "fonts": [
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg-DnYpCC2O.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-Dx4kXJAl.woff2",
+            "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/dist/assets/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOig-BsRWmXhO.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-home.webp",
+            "srcset": "",
+            "alt": "MemeChat AI home screen",
+            "width": 695,
+            "height": 1568
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "Zeta AI Assistant avatar",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik virtual try-on screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-cobatik-screen.webp",
+            "srcset": "",
+            "alt": "CoBatik app screen",
+            "width": 660,
+            "height": 1440
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/memechat-mascot.png",
+            "srcset": "",
+            "alt": "",
+            "width": 361,
+            "height": 340
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-zeta-portrait.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/batik-women.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 800,
+            "height": 1014
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/portrait-3.jpg",
+            "srcset": "",
+            "alt": "",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "src": "http://127.0.0.1:18130/api/projects/a91e6638-420a-445c-80d1-c34373b5709e/preview/sim/assets/img/app-memechat-chat.webp",
+            "srcset": "",
+            "alt": "MemeChat AI chat screen",
+            "width": 695,
+            "height": 1568
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}

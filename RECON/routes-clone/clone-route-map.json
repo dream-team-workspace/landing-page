@@ -1,0 +1,191 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:8123",
+  "capturedAt": "2026-10-12T15:22:36.050Z",
+  "maxPages": 6,
+  "maxDepth": 2,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "http://127.0.0.1:8123",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "Dream Team — Intelligent in your hand",
+      "lang": "en",
+      "metaDescription": "We build mobile-specific, AI-powered applications that run on your device. MemeChat AI, Zeta AI Assistant and CoBatik — private, fast and always with you.",
+      "h1": [
+        "Intelligentin your hand"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Intelligentin your hand"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Dream Team?"
+        },
+        {
+          "tag": "h3",
+          "text": "AI-Driven by Default"
+        },
+        {
+          "tag": "h3",
+          "text": "Local-Friendly Architecture"
+        },
+        {
+          "tag": "h3",
+          "text": "Built for Real Phones"
+        },
+        {
+          "tag": "h2",
+          "text": "Our AI-Driven Stack"
+        },
+        {
+          "tag": "h3",
+          "text": "On-Device Inference"
+        },
+        {
+          "tag": "h3",
+          "text": "Conversational Apps"
+        },
+        {
+          "tag": "h3",
+          "text": "Mobile-First Interfaces"
+        },
+        {
+          "tag": "h3",
+          "text": "On-Device Retrieval"
+        },
+        {
+          "tag": "h3",
+          "text": "Memory & Context"
+        },
+        {
+          "tag": "h3",
+          "text": "Not sure what runs on a phone?"
+        },
+        {
+          "tag": "h3",
+          "text": "Your Data. Stays Yours."
+        },
+        {
+          "tag": "h2",
+          "text": "How We Work"
+        },
+        {
+          "tag": "h3",
+          "text": "Discover & Scope"
+        },
+        {
+          "tag": "h3",
+          "text": "Model & Data Plan"
+        },
+        {
+          "tag": "h3",
+          "text": "Build the App"
+        },
+        {
+          "tag": "h3",
+          "text": "Test on Real Devices"
+        },
+        {
+          "tag": "h3",
+          "text": "Ship & Iterate"
+        },
+        {
+          "tag": "h2",
+          "text": "What We’ve Built"
+        },
+        {
+          "tag": "h3",
+          "text": "Meme Smarter, Not Harder"
+        },
+        {
+          "tag": "h3",
+          "text": "Offline AI Companion"
+        },
+        {
+          "tag": "h3",
+          "text": "Kenakan arsipnya"
+        },
+        {
+          "tag": "h2",
+          "text": "Runs On The Device"
+        },
+        {
+          "tag": "h2",
+          "text": "Inside the Apps"
+        },
+        {
+          "tag": "h3",
+          "text": "Kenakan arsipnya."
+        },
+        {
+          "tag": "h3",
+          "text": "Meme Smarter, Not Harder"
+        },
+        {
+          "tag": "h2",
+          "text": "Get the Apps"
+        },
+        {
+          "tag": "h3",
+          "text": "MemeChat AI"
+        },
+        {
+          "tag": "h3",
+          "text": "Zeta AI Assistant"
+        },
+        {
+          "tag": "h3",
+          "text": "CoBatik"
+        },
+        {
+          "tag": "h3",
+          "text": "Not sure which app to open first?"
+        },
+        {
+          "tag": "h2",
+          "text": "What We Believe"
+        },
+        {
+          "tag": "h3",
+          "text": "On-device first"
+        },
+        {
+          "tag": "h3",
+          "text": "Local-friendly"
+        },
+        {
+          "tag": "h3",
+          "text": "AI-driven"
+        },
+        {
+          "tag": "h3",
+          "text": "Craft over templates"
+        },
+        {
+          "tag": "h2",
+          "text": "Common Questions"
+        },
+        {
+          "tag": "h2",
+          "text": "Your next app shouldrun on the phone."
+        }
+      ],
+      "counts": {
+        "links": 28,
+        "images": 22,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 22
+      },
+      "linkCount": 28,
+      "screenshot": "screenshots/127.0.0.1-0fdc99f9.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}
