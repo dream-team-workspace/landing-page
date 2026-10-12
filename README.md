@@ -27,6 +27,15 @@ history and verification evidence.
 | Typecheck | `npm run typecheck` | — |
 | Asset audit | `node scripts/check-assets.mjs` | verifies every site reference, harvest-manifest path and dist copy; `--restore` re-fetches missing manifest files from their recorded URLs |
 
+## Deploy (CI/CD)
+
+Every push to `master` builds the site in GitHub Actions and rsyncs `dist/` to
+`/var/www/dream-team.works` on the same server as the portfolio
+(`139.99.88.23`), served by nginx behind Cloudflare Tunnel. The webroot mirrors
+the build output exactly; repo docs never land there. Secrets, verification,
+rollback and troubleshooting: **`server/README.md`**. Manual run:
+Actions → Deploy → Run workflow.
+
 ## How OpenDesign previews this project
 
 The daemon detects the Vite dev entry in `index.html`
